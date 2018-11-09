@@ -1,0 +1,13 @@
+[oang]
+Art=ReplaceableTextures\CommandButtons\BTNGuardianWard.blp
+Missileart=Abilities\Weapons\AncestralGuardianMissile\AncestralGuardianMissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+MissileHoming=1
+[orbr]
+Art=ReplaceableTextures\CommandButtons\BTNReinforcedBurrows.blp
+Buttonpos=0,1
+Missileart=abilities\weapons\huntermissile\huntermissile.mdl
+Missilearc=0.15
+Missilespeed=1200
+Specialart=Objects\Spawnmodels\Human\HCancelDeath\HCancelDeath.mdl

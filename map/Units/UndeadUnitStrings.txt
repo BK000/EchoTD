@@ -1,0 +1,168 @@
+[P005]
+Name="冒险家"
+Propernames=瑟罗丁 金锤
+Tip="选择 冒险家"
+Ubertip="|cffAEAEAE瑟罗丁一直在寻找他的下一件藏品，他总是在其他人只能找到一堆垃圾的地方发现珍贵的物品。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+15% 物品获取率|n+20% 物品品质率|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P004]
+Name="皇家杀手"
+Propernames=剑之凯特
+Tip="选择 皇家杀手"
+Ubertip="|cffAEAEAE凯特非常擅长刺杀那些有权有势的家伙。|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+15% 伤害对Boss|n+1% 伤害对Boss/级|n+25% 伤害对精英|n+2% 物品品质率/级|r|n|cffFFFF00劣势：|r|n|cffFF0000-8% 伤害对小兵|n-12% 伤害对杂兵|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P007]
+Name="慈悲女巫"
+Propernames=利兹 吐特
+Tip="选择 慈悲女巫"
+Ubertip="|cffaeaeae上古时期最强大的女巫。和姐妹们不同，她非常厌恶暴力。|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+10 法力值|n+100% 法力值|n+50% 法力回复|n+2% 法力回复/级|r|n|cffFFFF00劣势：|r|n|cffFF0000-25% 法术伤害|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P006]
+Name="先知"
+Propernames=古罗克 塔祖
+Tip="选择 先知"
+Ubertip="|cffaeaeae古罗克能感知到隐藏着的生物，并且将这个能力授予了他的随从们。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00所有塔获得700范围的真实视野|n+10% 法术伤害|n+75 所有塔的攻击距离和光环范围|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P001]
+Name="剑圣"
+Propernames=伊索特
+Tip="选择 剑圣"
+Ubertip="|cffAEAEAE剑圣永远都是朝着敌人的要害挥刀！|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+8% 暴击几率|n+40% 暴击伤害|n+1 多重暴击数|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P000]
+Name="七空女王"
+Propernames=米亚
+Tip="选择 七空女王"
+Ubertip="|cffaeaeae天空只属于米亚一个人，没有任何人可以夺取。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00ff00+10% 攻击速度|n+30% 伤害对空军|n+2% 伤害对空军/级|n-60空军移动速度|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P003]
+Name="高阶女法师"
+Propernames=卡梅利亚
+Tip="选择 高阶女法师"
+Ubertip="|cffaeaeae天才法师，不过不太擅长普通攻击。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+50% 法术伤害|n+20% 法术暴击几率|n|cff00ff00+50% 法术暴击伤害|n+2% 法术暴击伤害/级|n+1% 伤害对魔法/级|r|n|cffffff00劣势：|r|n|cffff0000-10% 基础攻击力|n-1.2% 基础攻击力/级|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P002]
+Name="智慧使"
+Propernames=水骑士
+Tip="选择 智慧使"
+Ubertip="|cffaeaeae有什么问题的话，尽管来问水骑士好了！|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n塔的初始等级为5|n|cff00FF00+60% 经验获取率|n+1% 经验获取率/级|r|n|cffFFFF00劣势：|r|n|cffFF0000-15% 基础攻击力|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P009]
+Name="野蛮人督军"
+Propernames=波-图
+Tip="选择 野蛮人督军"
+Ubertip="|cffAEAEAE只有弱者才用魔法！|r|n|n级别：|cffFF3300专家|r|n|n|cffFFFF00优势：|r|n|cff00FF00+10% 攻击速度|n+35% 基础攻击力|n+0.4% 暴击几率/级|n+2% 暴击伤害/级|n+2 多重暴击数|r|n|cffFFFF00劣势：|r|n|cffFF0000-300% 法力回复|n-100% 法术伤害|r""
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P008]
+Name="灵魂守护者"
+Propernames=马恩 灵魂之蹄
+Tip="选择 灵魂守护者"
+Ubertip="|cffaeaeae守护者保护着他的教会不受邪恶势力的侵袭，同时用他那风度的礼节默默支持着教会的发展。|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n|cff00FF00-30% 负面状态持续时间|n+80% 增益状态持续时间|n+10% 伤害对杂兵|r|n|cffFFFF00劣势：|r|n|cffFF0000-10% 伤害对Boss|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P010]
+Name="时间扭曲师"
+Propernames=妮诗琪女士
+Tip="选择 时间扭曲师"
+Ubertip="|cffAEAEAE妮诗琪女士能够扭曲时间本身，使得她的随从们有着更快的速度和更多的机会。|r|n|n级别：|cffFF3300专家|r|n|n|cffFFFF00优势：|r|n|cff00FF00+40% 触发几率|n+30% 攻击速度|r|n|cffFFFF00劣势：|r|n|cffFF0000-25% 基础攻击力|n-25% 法术伤害|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P016]
+Name="对抗者"
+Propernames=暴徒布奇
+Tip="选择 对抗者"
+Ubertip="|cffaeaeae布奇的智力比较低，所以他学习成长比较慢，但是他发达的肌肉和强壮的肢体能弥补他的不足.|r|n|n级别: |cff800080硬核|r|n|n|cffffff00优势：|r|n|cff00ff00+10% 基础攻击力|n+4% 基础攻击力/级|n+10% 攻击速度|n+0.5% 攻击速度/级|n+25% 法术伤害|r|n|cffffff00劣势：|r|n|cffff0000-60% 经验获取率|n-1.6% 经验获取率/级|n-16% 触发几率|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P015]
+Name="现实主义者"
+Propernames=卡尔
+Tip="选择 现实主义者"
+Ubertip="|cffaeaeae碰运气！|n-从不！|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+15% 基础攻击力|n+1.5% 基础攻击力/级|n+15% 法术伤害|n+1.5% 法术伤害/级|n+150% 法力回复|r|n|cffffff00劣势：|r|n|cffff0000-50% 触发几率|n-20% 暴击几率|n-20% 法术暴击几率|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P018]
+Name="资深飞行员"
+Propernames=简练的兹普
+Tip="选择 资深飞行员"
+Ubertip="|cffaeaeae兹普刚刚完成了他的第三次环艾泽拉斯之旅。许多兽人做梦都想吃掉这位经验丰富的飞行员。|r|n|n级别：|cffff9900高手|r|n|n|cffffff00优势：|r|cff00ff00|n+20% 攻击速度|n+2% 攻击速度/级|r|n|cffffff00劣势：|r|n|cffff0000怪物的移动速度提高50点|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P017]
+Name="驴友"
+Propernames=斯尼戈
+Tip="选择 驴友"
+Ubertip="|cffaeaeae这家伙的背包比蜡烛还多！它将自己在旅行中收集到的各种纪念品打包并仔细地保存了起来。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00塔的物品栏位+2|n3个额外的合成配方|n+40%物品品质率|r|n|cffffff00劣势：|r|n|cffff0000塔只能携带和自身品质相同的装备，|cffFF00BF独特|cffff0000品质的装备不受此条影响。|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P012]
+Name="地精炼金术士"
+Propernames=双下巴格林特
+Tip="选择 地精炼金术士"
+Ubertip="|cffaeaeae地精炼金术士的心中充斥着对于财富的极大渴望，这使得他相当缺乏战斗技术。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+20% 金钱获取率|n+15% 收入|n+2% 利息|n+35% 物品品质率|n+2% 物品品质率/级|r|n|cffffff00劣势：|r|n|cffff0000-35% 增益状态持续时间|r|n|cffff0000+25% 负面状态持续时间|n-15% 攻击速度|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P011]
+Name="熊猫和尚"
+Propernames=潘达利斯大哥
+Tip="选择 熊猫和尚"
+Ubertip="|cffaeaeae潘达利斯大哥把他的财物捐给穷人，当然，是为了换取啤酒。|r|n|n级别：|r|cffFF3300专家|r|n|n|cffFFFF00优势：|r|n|cff00FF00+25% 攻击速度|n+15% 基础攻击力|n+1.4% 基础攻击力/级|n+20% 法术伤害|n+1.2% 法术伤害/级|n+1.2% 物品获取率/级|r|n|cffFFFF00劣势：|n|cffFF0000-60% 物品获取率|n-10% 物品品质率"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P014]
+Name="元素使"
+Propernames=狡猾的杜克
+Tip="选择 元素使"
+Ubertip="|cffaeaeae在不同的种族间游走，杜克很清楚的知道力量一直伴随着他。|r|n|n级别：|cffff9900高手|r|n|n|cffffff00优势：|r|n|cff00ff00+65起始力量点数|n每一波开始时+2力量点|n+20起始食物|n+25%伤害对兽人|n+20%伤害对亡灵|r |n|cffffff00劣势：|r|n|cffff0000-20%伤害对自然|n-5%伤害对人类|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P013]
+Name="铁娘子"
+Propernames=艾米利亚
+Tip="选择 铁娘子"
+Ubertip="|cffAEAEAE艾米利亚在三岁时就拥有了神秘的治疗能力。她的母亲是一位强大的法师。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+50% 起始生命|n当生命低于50%，每一波结束时回复1%生命。|n当生命低于10%，每一波结束时回复2%生命。"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P019]
+Name="异类"
+Propernames=印第安纳·彭登特
+Tip="选择 异类"
+Ubertip="|cffaeaeae靠谁都不如靠自己。尤其是它在空中留下一串烈焰脚印的时候。|r|n|n等级：|cff800080硬核|r|n|n|cffffff00优势：|r|n|cff00ff00+50%伤害对boss|n+25%伤害对精英|n-30%负面效果持续时间|n+1%物品获取率/级|n+3%基础攻击力/级|n+3%法术伤害/级|r|n|cffffff00劣势：|r|n|cffff0000-20起始食物|n-3智慧守护者升级上限|n-50%增益状态持续时间|n塔与塔之间必须有至少1格空隙。|n无法和队友共享建造区域。|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P020]
+Name="懦弱防御者"
+Propernames=福格斯·费尔特哈默
+Tip="选择 懦弱防御者"
+Ubertip="|cffaeaeae这位老人受苦于消瘦与痴呆。有人怀疑有个聪明的双胞胎哥哥替他拿到了工作。他也相当讨厌金钱。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+2智慧守护者升级上限|n+50%伤害对亡灵|n+30%伤害对兽人|n+50%伤害对杂兵|r|n|cffffff00劣势：|r|n|cffff0000-30%伤害对魔法|n-45起始力量点|n-20%收入|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D

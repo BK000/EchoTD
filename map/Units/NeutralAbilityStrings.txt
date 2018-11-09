@@ -1,0 +1,1555 @@
+[ANf1]
+Name=Factory
+Tip="Factory - Upgrade Level 1"
+Ubertip="Factory."
+Hotkey=
+EditorSuffix= (Upgrade Level 1)
+[ANf2]
+Name=Factory
+Tip="Factory - Upgrade Level 2"
+Ubertip="Factory."
+Hotkey=
+EditorSuffix= (Upgrade Level 2)
+[ANf3]
+Name=Factory
+Tip="Factory - Upgrade Level 3"
+Ubertip="Factory."
+Hotkey=
+EditorSuffix= (Upgrade Level 3)
+[ANab]
+Name=Acid Bomb
+Tip=Acid |cffffcc00B|romb - [|cffffcc00Level 1|r],Acid |cffffcc00B|romb - [|cffffcc00Level 2|r],Acid |cffffcc00B|romb - [|cffffcc00Level 3|r]
+Researchtip="Learn Acid |cffffcc00B|romb - [|cffffcc00Level %d|r]"
+Ubertip="Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC1>; deals <ANab,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur1> seconds.","Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC2>; deals <ANab,DataD2> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur2> seconds.","Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC3>; deals <ANab,DataD3> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur3> seconds."
+Researchubertip="Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor; deals high damage over time to the primary target; deals slightly less damage over time to nearby targets.|nLasts <ANab,Dur1> seconds.|n|n|cffffcc00Level 1|r - <ANab,DataD1> max damage per second, reduces armor by <ANab,DataC1>.|n|cffffcc00Level 2|r - <ANab,DataD2> max damage per second, reduces armor by <ANab,DataC2>.|n|cffffcc00Level 3|r - <ANab,DataD3> max damage per second, reduces armor by <ANab,DataC3>."
+Hotkey=B
+Researchhotkey=B
+[BNab]
+Bufftip=Acid Bomb
+Buffubertip="This unit has been Acid Bombed.  It has reduced armor, and is being damaged over time."
+[Aasl]
+Name=Slow Aura
+EditorSuffix= (Tornado)
+[ANdo]
+Name=Doom
+Tip=|cffffcc00D|room
+Ubertip="Marks a target unit for the manifestation of a Demon. The afflicted unit cannot cast spells and will take <ANdo,DataA1> damage per second until it dies. Upon its death, a great Demon will spawn from its corpse. Doom cannot be dispelled or cancelled."
+Hotkey=D
+Researchtip="Learn |cffffcc00D|room"
+Researchubertip="Marks a target unit for the manifestation of a Demon. The afflicted unit cannot cast spells and will take <ANdo,DataA1> damage per second until it dies. Upon its death, a great Demon will spawn from its corpse. Doom cannot be dispelled or cancelled."
+Researchhotkey=D
+[BNdo]
+Bufftip=Doom
+Buffubertip="This unit has been stricken with Doom; it cannot cast spells and will take damage until it dies, and a Demon will spawn from its corpse. Doom cannot be dispelled or cancelled."
+[Aiun]
+Name=Unit Inventory
+EditorSuffix= (Undead)
+Tip="Unit Inventory"
+Ubertip="Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+[Aion]
+Name=Unit Inventory
+EditorSuffix= (Orc)
+Tip="Unit Inventory"
+Ubertip="Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+[Aihn]
+Name=Unit Inventory
+EditorSuffix= (Human)
+Tip="Unit Inventory"
+Ubertip="Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+[Aien]
+Name=Unit Inventory
+EditorSuffix= (Night Elf)
+Tip="Unit Inventory"
+Ubertip="Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+[AInv]
+Name=Inventory
+EditorSuffix= (Hero)
+[ANbf]
+Name=Breath of Fire
+Tip=Breath of |cffffcc00F|rire - [|cffffcc00Level 1|r],Breath of |cffffcc00F|rire - [|cffffcc00Level 2|r],Breath of |cffffcc00F|rire - [|cffffcc00Level 3|r]
+Ubertip="Breathes a cone of fire at enemy units, dealing <ANbf,DataA1> initial damage, and burning them for <ANbf,DataE1> damage per second over <ANbf,Dur1> seconds.","Breathes a cone of fire at enemy units, dealing <ANbf,DataA2> initial damage, and burning them for <ANbf,DataE2> damage per second over <ANbf,Dur2> seconds.","Breathes a cone of fire at enemy units, dealing <ANbf,DataA3> initial damage, and burning them for <ANbf,DataE3> damage per second over <ANbf,Dur3> seconds."
+Hotkey=F
+Researchtip="Learn Breath of |cffffcc00F|rire - [|cffffcc00Level %d|r]"
+Researchubertip="Breathes a cone of fire at enemy units, dealing initial damage, and then damage over time. |nLasts <ANbf,Dur1> seconds. |n|n|cffffcc00Level 1|r - <ANbf,DataA1> initial damage, <ANbf,DataE1> damage per second. |n|cffffcc00Level 2|r - <ANbf,DataA2> initial damage, <ANbf,DataE2> damage per second. |n|cffffcc00Level 3|r - <ANbf,DataA3> initial damage, <ANbf,DataE3> damage per second."
+Researchhotkey=F
+[BNmo]
+Bufftip=Monsoon
+Buffubertip="This unit is under a Monsoon; it will take damage from lightning bolts."
+[Basl]
+Bufftip=Tornado
+Buffubertip="This unit is caught within a Tornado; its movement speed has been reduced temporarily."
+EditorSuffix= (Slow Aura)
+[Arng]
+Name=Revenge
+[Adtg]
+Name=真实视野
+EditorSuffix= (Neutral 1)
+Tip=真实视野
+Ubertip="显示附近的隐形单位。"
+[ANtr]
+Name=真实视野
+EditorSuffix= (Neutral 2)
+Tip=真实视野
+Ubertip="显示附近的隐形单位。"
+[Abgm]
+Name=Blighted Gold Mine Ability
+[Aegm]
+Name=Entangled Gold Mine Ability
+[Atol]
+Name=Tree of Life upgrade ability
+[Awrp]
+Name=Waygate ability
+[BNsp]
+Bufftip=Soul Preservation
+Buffubertip="This unit is being preserved for later use."
+[Achd]
+Name=Cargo Hold Death
+[Aloa]
+Name=Load
+Tip=|cffffcc00L|road
+Ubertip="Loads a targeted friendly land unit."
+Hotkey=L
+EditorSuffix= (Goblin Zeppelin)
+[Adro]
+Name=Unload
+EditorSuffix= (Air Transports)
+Tip=|cffffcc00U|rnload All
+Ubertip="Unloads all carried units at a target location."
+Hotkey=U
+[Sdro]
+Name=Unload
+EditorSuffix= (Sea Transports)
+Tip=|cffffcc00U|rnload All
+Ubertip="Unloads all carried units at a target location."
+Hotkey=U
+[Abun]
+Name=Cargo Hold (Orc Burrow)
+[Acar]
+Name=Cargo Hold
+[ANgl]
+Name=Exchange Gold for Lumber
+Tip=Exchange %d Gold for %d |cffffcc00L|rumber
+Hotkey=L
+[ANlg]
+Name=Exchange Lumber for Gold
+Tip=Exchange %d Lumber for %d |cffffcc00G|rold
+Hotkey=G
+[ANrl]
+Name=Life Regeneration
+[Aneu]
+Name=Select Hero
+Tip=Select |cffffcc00H|rero
+Untip=Deselect |cffffcc00H|rero
+Hotkey=H
+Unhotkey=H
+[Ane2]
+Name=Select Unit
+Tip=Select |cffffcc00U|rnit
+Untip=Deselect |cffffcc00U|rnit
+Hotkey=U
+Unhotkey=U
+[Amrf]
+Name=Crow Form
+Tip=Crow |cffffcc00F|rorm
+Ubertip="Turn into a Crow."
+Hotkey=F
+Untip=Human |cffffcc00F|rorm
+Unubertip="Turn into a Human."
+Unhotkey=F
+[ACbr]
+Name=Berserker Rage
+Tip=|cffffcc00B|rerserker Rage
+Ubertip="Increases attack rate by <ACbr,DataA1,%>% for <ACbr,Dur1> seconds."
+Hotkey=B
+[ACsp]
+Name=Sleep
+[AOac]
+Name=Command Aura
+Tip=Command Aura
+Ubertip="Gives extra damage to the attacks of nearby friendly units."
+[Btlf]
+Bufftip=Timed Life
+Buffubertip="Summoned units take damage from dispels."
+[Adda]
+Name=AOE damage upon death
+EditorSuffix= (Sapper)
+[Agho]
+Name=Ghost
+[Aeth]
+Name=Ghost
+EditorSuffix= (Visible)
+[Agld]
+Name=Gold Mine ability
+[Amin]
+Name=Mine - exploding
+EditorSuffix= (Goblin Land Mine)
+[Apiv]
+Name=Permanent Invisibility
+[Artn]
+Name=Return
+[Avul]
+Name=Invulnerable
+EditorSuffix= (Neutral)
+[Awan]
+Name=Wander
+EditorSuffix= (Neutral)
+[AUmd]
+Name=Dark Summoning (Malganis)
+[Aarm]
+Name=法力回复光环
+[Barm]
+Bufftip=法力回复光环
+Buffubertip="这个单位受到了法力回复光环的影响，它的法力回复速度提高了。"
+[ANre]
+Name=Life Regeneration Aura
+EditorSuffix= (Neutral)
+[Argd]
+Name=Return Gold
+[Argl]
+Name=Return Gold and Lumber
+[Arlm]
+Name=Return Lumber
+[Amnz]
+Name=AOE damage upon death
+EditorSuffix=(Big Mine)
+[Aand]
+EditorSuffix=(Neutral Hostile)
+[ACad]
+EditorSuffix=(Neutral Hostile)
+[Abli]
+Name=Blight
+[Abds]
+Name=Blight Dispel Small
+[Abdl]
+Name=Blight Dispel Large
+[Abgs]
+Name=Blight Growth Small
+[Abgl]
+Name=Blight Growth Large
+[Amnx]
+Name=AOE damage upon death
+EditorSuffix=(Goblin Mine)
+[Adt2]
+EditorSuffix=(Shade)
+[Adt3]
+EditorSuffix=(Gyrocopter)
+[ACen]
+Name=Ensnare
+Tip=|cffffcc00E|rnsnare
+Ubertip="Causes a target enemy unit to be bound to the ground so that it cannot move for <ACen,Dur1> seconds. Air units that are ensnared can be attacked as though they were land units."
+Hotkey=E
+EditorSuffix=(Neutral Hostile)
+[AChd]
+EditorSuffix=(Neutral Hostile)
+[ACma]
+EditorSuffix=(always on)
+[Sloa]
+Name=Load
+Tip=|cffffcc00L|road
+Ubertip="Loads a targeted friendly land unit."
+Hotkey=L
+EditorSuffix=(Orc Burrow)
+[ACmi]
+Name=魔法免疫
+Tip=魔法免疫
+Ubertip="这个单位免疫魔法"
+EditorSuffix=(Neutral Hostile)
+[ACm2]
+Name=魔法免疫
+Tip=魔法免疫
+Ubertip="这个单位免疫魔法"
+EditorSuffix=(Archimonde)
+[ACm3]
+Name=魔法免疫
+Tip=魔法免疫
+Ubertip="这个单位免疫魔法"
+EditorSuffix=(Dragon)
+[Ahrp]
+Name=Repair
+Tip=|cffffcc00R|repair
+Ubertip="Repairs mechanical units and structures at the cost of resources."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+EditorSuffix=(Human)
+[Asid]
+Name=Sell Items
+Tip=Sell Items
+Ubertip="Permits the sale of items."
+[Asud]
+Name=出售单位
+Tip=出售单位
+Ubertip="允许出售单位"
+[ACsw]
+EditorSuffix=(Neutral Hostile)
+[ACpv]
+Name=Pulverize
+Tip=Pulverize
+Ubertip="Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units."
+[Anei]
+Name=Select User
+Tip=Select |cffffcc00U|rser
+Hotkey=U
+[ACrk]
+Name=Resistant Skin
+EditorSuffix= (Neutral Hostile 1)
+Tip=Resistant Skin
+Ubertip="Reduces the duration of negative spells and renders the unit immune to certain spells."
+[ANfl]
+Name=Forked Lightning
+Tip=|cffffcc00F|rorked Lightning - [|cffffcc00Level 1|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 2|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 3|r]
+Ubertip="Calls forth a cone of lightning on a target enemy unit, hitting up to <ANfl,DataB1> enemy units for <ANfl,DataA1> damage.","Calls forth a cone of lightning from the Sea Witch, hitting up to <ANfl,DataB2> enemy units for <ANfl,DataA2> damage.","Calls forth a cone of lightning from the Sea Witch, hitting up to <ANfl,DataB3> enemy units for <ANfl,DataA3> damage."
+Hotkey=F
+Researchtip="Learn |cffffcc00F|rorked Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Calls forth a cone of lightning to damage enemies. |n|n|cffffcc00Level 1|r - <ANfl,DataA1> damage per unit. |n|cffffcc00Level 2|r - <ANfl,DataA2> damage per unit. |n|cffffcc00Level 3|r - <ANfl,DataA3> damage per unit."
+Researchhotkey=F
+[Bsha]
+EditorName=Shared Vision
+[XIct]
+EditorName=Item Change Time of Day
+[APRO]
+Name="Protector ability"
+EditorSuffix=""
+[APUR]
+Name="Purge ability"
+EditorSuffix=""
+[A009]
+Name="Non Turning Tower"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A007]
+Name="Non Turning Tower"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A008]
+Name="Turning Tower"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A006]
+Name="Turning Tower"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A014]
+Name="Armor: Sif"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A015]
+Name="Armor: Zod"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A012]
+Name="Armor: Sol"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A013]
+Name="Armor: Myt"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A010]
+Name="Armor: Hel"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[A011]
+Name="Armor: Lua"
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
+Unhotkey=R
+EditorSuffix=""
+[W01B]
+Name="Effect abil for R00A"
+EditorSuffix=""
+[W00X]
+Name="Effect abil for R006"
+EditorSuffix=""
+[W01R]
+Name="Effect abil for R00C"
+EditorSuffix=""
+[W023]
+Name="Effect abil for R00F"
+EditorSuffix=""
+[W01T]
+Name="Effect abil for R00D"
+EditorSuffix=""
+[W027]
+Name="Effect abil for R00G"
+EditorSuffix=""
+[W028]
+Name="Effect abil for R00H"
+EditorSuffix=""
+[W01J]
+Name="Effect abil for R00B"
+EditorSuffix=""
+[W020]
+Name="Effect abil for R00E"
+EditorSuffix=""
+[W00C]
+Name="Effect abil for R001"
+EditorSuffix=""
+[W008]
+Name="Effect abil for R000"
+EditorSuffix=""
+[W00P]
+Name="Effect abil for R004"
+EditorSuffix=""
+[W012]
+Name="Effect abil for R007"
+EditorSuffix=""
+[W00R]
+Name="Effect abil for R005"
+EditorSuffix=""
+[W015]
+Name="Effect abil for R008"
+EditorSuffix=""
+[W017]
+Name="Effect abil for R009"
+EditorSuffix=""
+[W00J]
+Name="Effect abil for R002"
+EditorSuffix=""
+[W00M]
+Name="Effect abil for R003"
+EditorSuffix=""
+[W03E]
+Name="Effect abil for R00T"
+EditorSuffix=""
+[W03I]
+Name="Effect abil for R00U"
+EditorSuffix=""
+[W02Y]
+Name=Chain Lightning
+Tip=|cffffcc00C|rhain Lightning
+Ubertip="Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage."
+Hotkey=
+EditorSuffix="(2)"
+[W02Z]
+Name=Chain Lightning
+Tip=|cffffcc00C|rhain Lightning
+Ubertip="Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage."
+Hotkey=
+EditorSuffix=""
+[W049]
+Name="Effect abil for R00Z"
+EditorSuffix=""
+[W03L]
+Name="Effect abil for R00V"
+EditorSuffix=""
+[W03P]
+Name="Effect abil for R00W"
+EditorSuffix=""
+[W03Q]
+Name="Effect abil for R00X"
+EditorSuffix=""
+[W042]
+Name="Effect abil for R00Y"
+EditorSuffix=""
+[W02B]
+Name="Effect abil for R00J"
+EditorSuffix=""
+[W02C]
+Name="Effect abil for R00I"
+EditorSuffix=""
+[W02G]
+Name="Effect abil for R00L"
+EditorSuffix=""
+[W032]
+Name="Effect abil for R00S"
+EditorSuffix=""
+[W02R]
+Name="Effect abil for R00P"
+EditorSuffix=""
+[W02U]
+Name="Effect abil for R00Q"
+EditorSuffix=""
+[W02X]
+Name="Effect abil for R00R"
+EditorSuffix=""
+[W02N]
+Name="Effect abil for R00O"
+EditorSuffix=""
+[W05V]
+Name="Effect abil for R012"
+EditorSuffix=""
+[W061]
+Name="Effect abil for R013"
+EditorSuffix=""
+[W04L]
+Name="Effect abil for R010"
+EditorSuffix=""
+[W04N]
+Name="Effect abil for R011"
+EditorSuffix=""
+[W07M]
+Name="Effect abil for R017"
+EditorSuffix=""
+[W087]
+Name="Effect abil for R01D"
+EditorSuffix=""
+[W088]
+Name="Effect abil for R01E"
+EditorSuffix=""
+[W089]
+Name="Effect abil for R01G"
+EditorSuffix=""
+[W07Y]
+Name="Effect abil for R01B"
+EditorSuffix=""
+[W07O]
+Name="Effect abil for R018"
+EditorSuffix=""
+[W083]
+Name="Effect abil for R01C"
+EditorSuffix=""
+[W07S]
+Name="Effect abil for R019"
+EditorSuffix=""
+[W07U]
+Name="Effect abil for R01A"
+EditorSuffix=""
+[W06F]
+Name="Effect abil for R014"
+EditorSuffix=""
+[W077]
+Name="Effect abil for R016"
+EditorSuffix=""
+[W074]
+Name="Effect abil for R015"
+EditorSuffix=""
+[W09M]
+Name="Effect abil for R01S"
+EditorSuffix=""
+[W09C]
+Name="Effect abil for R01O"
+EditorSuffix=""
+[W09U]
+Name="Effect abil for R01T"
+EditorSuffix=""
+[W08I]
+Name="Effect abil for R01I"
+EditorSuffix=""
+[W08A]
+Name="Effect abil for R01F"
+EditorSuffix=""
+[W08E]
+Name="Effect abil for R01H"
+EditorSuffix=""
+[W08W]
+Name="Effect abil for R01L"
+EditorSuffix=""
+[W08O]
+Name="Effect abil for R01J"
+EditorSuffix=""
+[W090]
+Name="Effect abil for R01M"
+EditorSuffix=""
+[W08S]
+Name="Effect abil for R01K"
+EditorSuffix=""
+[W094]
+Name="Effect abil for R01N"
+EditorSuffix=""
+[W0AT]
+Name="Effect abil for R01X"
+EditorSuffix=""
+[W0B7]
+Name="Effect abil for R01Z"
+EditorSuffix=""
+[W0B0]
+Name="Effect abil for R01Y"
+EditorSuffix=""
+[W0BB]
+Name="Effect abil for R020"
+EditorSuffix=""
+[W0BF]
+Name="Effect abil for R021"
+EditorSuffix=""
+[W0A0]
+Name="Effect abil for R01U"
+EditorSuffix=""
+[W0A4]
+Name="Effect abil for R01V"
+EditorSuffix=""
+[W0AF]
+Name="Effect abil for R01W"
+EditorSuffix=""
+[W0D4]
+Name="Effect abil for R02B"
+EditorSuffix=""
+[W0CV]
+Name="Effect abil for R029"
+EditorSuffix=""
+[W0CY]
+Name="Effect abil for R02A"
+EditorSuffix=""
+[W0CJ]
+Name="Effect abil for R028"
+EditorSuffix=""
+[W0BR]
+Name="Effect abil for R024"
+EditorSuffix=""
+[W0BS]
+Name="Effect abil for R023"
+EditorSuffix=""
+[W0C4]
+Name="Effect abil for R025"
+EditorSuffix=""
+[W0C5]
+Name="Effect abil for R026"
+EditorSuffix=""
+[W0BN]
+Name="Effect abil for R022"
+EditorSuffix=""
+[W0CB]
+Name="Effect abil for R027"
+EditorSuffix=""
+[W0F2]
+Name="Effect abil for R02P"
+EditorSuffix=""
+[W0E4]
+Name="Effect abil for R02J"
+EditorSuffix=""
+[W0DT]
+Name="Effect abil for R02E"
+EditorSuffix=""
+[W0E5]
+Name="Effect abil for R02L"
+EditorSuffix=""
+[W0E6]
+Name="Effect abil for R02H"
+EditorSuffix=""
+[W0E7]
+Name="Effect abil for R02I"
+EditorSuffix=""
+[W0E8]
+Name="Effect abil for R02K"
+EditorSuffix=""
+[W0DZ]
+Name="Effect abil for R02F"
+EditorSuffix=""
+[W0DO]
+Name="Effect abil for R02C"
+EditorSuffix=""
+[W0E0]
+Name="Effect abil for R02G"
+EditorSuffix=""
+[W0EF]
+Name="Effect abil for R02N"
+EditorSuffix=""
+[W0EK]
+Name="Effect abil for R02O"
+EditorSuffix=""
+[W0EC]
+Name="Effect abil for R02M"
+EditorSuffix=""
+[W0GX]
+Name="Effect abil for R02X"
+EditorSuffix=""
+[W0H9]
+Name="Effect abil for R030"
+EditorSuffix=""
+[W0GP]
+Name="Effect abil for R02V"
+EditorSuffix=""
+[W0H1]
+Name="Effect abil for R02Y"
+EditorSuffix=""
+[W0GT]
+Name="Effect abil for R02W"
+EditorSuffix=""
+[W0H5]
+Name="Effect abil for R02Z"
+EditorSuffix=""
+[W0HL]
+Name="Effect abil for R031"
+EditorSuffix=""
+[W0G6]
+Name="Effect abil for R02U"
+EditorSuffix=""
+[W0G0]
+Name="Effect abil for R02T"
+EditorSuffix=""
+[W0IQ]
+Name="Effect abil for R034"
+EditorSuffix=""
+[W0IR]
+Name="Effect abil for R035"
+EditorSuffix=""
+[W0IS]
+Name="Effect abil for R036"
+EditorSuffix=""
+[W0J4]
+Name="Effect abil for R038"
+EditorSuffix=""
+[W0IT]
+Name="Effect abil for R037"
+EditorSuffix=""
+[W0J5]
+Name="Effect abil for R039"
+EditorSuffix=""
+[W0JD]
+Name="Effect abil for R03A"
+EditorSuffix=""
+[W0IM]
+Name="Effect abil for R033"
+EditorSuffix=""
+[W0IA]
+Name="Effect abil for R032"
+EditorSuffix=""
+[W0KZ]
+Name="Effect abil for R03G"
+EditorSuffix=""
+[W0L4]
+Name="Effect abil for R03H"
+EditorSuffix=""
+[W0L5]
+Name="Effect abil for R03I"
+EditorSuffix=""
+[W0KY]
+Name="Effect abil for R03F"
+EditorSuffix=""
+[W0LM]
+Name="Effect abil for R03K"
+EditorSuffix=""
+[W0M0]
+Name="Effect abil for R03P"
+EditorSuffix=""
+[W0LP]
+Name="Effect abil for R03L"
+EditorSuffix=""
+[W0LQ]
+Name="Effect abil for R03M"
+EditorSuffix=""
+[W0M3]
+Name="Effect abil for R03Q"
+EditorSuffix=""
+[W0LH]
+Name="Effect abil for R03J"
+EditorSuffix=""
+[W0KK]
+Name="Effect abil for R03E"
+EditorSuffix=""
+[W0KB]
+Name="Effect abil for R03B"
+EditorSuffix=""
+[W0KG]
+Name="Effect abil for R03C"
+EditorSuffix=""
+[W0KH]
+Name="Effect abil for R03D"
+EditorSuffix=""
+[W0MV]
+Name="Effect abil for R03V"
+EditorSuffix=""
+[W0O0]
+Name="Effect abil for R03Y"
+EditorSuffix=""
+[W100]
+Name="Effect abil for R061"
+EditorSuffix=""
+[W0LV]
+Name="Effect abil for R03N"
+EditorSuffix=""
+[W0LZ]
+Name="Effect abil for R03O"
+EditorSuffix=""
+[W0ML]
+Name="Effect abil for R03S"
+EditorSuffix=""
+[W0MM]
+Name="Effect abil for R03T"
+EditorSuffix=""
+[W0MQ]
+Name="Effect abil for R03U"
+EditorSuffix=""
+[W0N2]
+Name="Effect abil for R03W"
+EditorSuffix=""
+[W0N4]
+Name="Effect abil for R03X"
+EditorSuffix=""
+[W0MH]
+Name="Effect abil for R03R"
+EditorSuffix=""
+[W11A]
+Name="Effect abil for R06D"
+EditorSuffix=""
+[W11B]
+Name="Effect abil for R06E"
+EditorSuffix=""
+[W117]
+Name="Effect abil for R06C"
+EditorSuffix=""
+[W10Y]
+Name="Effect abil for R067"
+EditorSuffix=""
+[W10Z]
+Name="Effect abil for R066"
+EditorSuffix=""
+[W11P]
+Name="Effect abil for R06F"
+EditorSuffix=""
+[W11Q]
+Name="Effect abil for R06G"
+EditorSuffix=""
+[W11R]
+Name="Effect abil for R06H"
+EditorSuffix=""
+[W0PT]
+Name="Effect abil for R043"
+EditorSuffix=""
+[W125]
+Name="Effect abil for R06J"
+EditorSuffix=""
+[W0PU]
+Name="Effect abil for R045"
+EditorSuffix=""
+[W0PV]
+Name="Effect abil for R044"
+EditorSuffix=""
+[W0OB]
+Name="Effect abil for R040"
+EditorSuffix=""
+[W0OC]
+Name="Effect abil for R041"
+EditorSuffix=""
+[W0O7]
+Name="Effect abil for R03Z"
+EditorSuffix=""
+[W108]
+Name="Effect abil for R062"
+EditorSuffix=""
+[W110]
+Name="Effect abil for R068"
+EditorSuffix=""
+[W111]
+Name="Effect abil for R06A"
+EditorSuffix=""
+[W112]
+Name="Effect abil for R069"
+EditorSuffix=""
+[W10R]
+Name="Effect abil for R064"
+EditorSuffix=""
+[W10S]
+Name="Effect abil for R065"
+EditorSuffix=""
+[W116]
+Name="Effect abil for R06B"
+EditorSuffix=""
+[W0OI]
+Name="Effect abil for R042"
+EditorSuffix=""
+[W10I]
+Name="Effect abil for R063"
+EditorSuffix=""
+[W10M]
+Name=Cargo Hold (Orc Burrow)
+[W13A]
+Name="Effect abil for R06S"
+EditorSuffix=""
+[W13B]
+Name="Tunderstorm"
+Tip=|cffffcc00F|rorked Lightning - [|cffffcc00Level 1|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 2|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 3|r]
+Ubertip="Calls forth a cone of lightning on a target enemy unit, hitting up to <ANfl,DataB1> enemy units for <ANfl,DataA1> damage.","Calls forth a cone of lightning from the Sea Witch, hitting up to <ANfl,DataB2> enemy units for <ANfl,DataA2> damage.","Calls forth a cone of lightning from the Sea Witch, hitting up to <ANfl,DataB3> enemy units for <ANfl,DataA3> damage."
+Hotkey=F
+Researchtip="Learn |cffffcc00F|rorked Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Calls forth a cone of lightning to damage enemies. |n|n|cffffcc00Level 1|r - <ANfl,DataA1> damage per unit. |n|cffffcc00Level 2|r - <ANfl,DataA2> damage per unit. |n|cffffcc00Level 3|r - <ANfl,DataA3> damage per unit."
+Researchhotkey=F
+[W143]
+Name="Effect abil for R06W"
+EditorSuffix=""
+[W144]
+Name="Effect abil for R06X"
+EditorSuffix=""
+[W145]
+Name="Effect abil for R06Y"
+EditorSuffix=""
+[W13X]
+Name="Effect abil for R06U"
+EditorSuffix=""
+[W0RI]
+Name="Effect abil for R04D"
+EditorSuffix=""
+[W13I]
+Name="Effect abil for R06T"
+EditorSuffix=""
+[W12B]
+Name="涌动"
+Tip="涌动"
+Ubertip=""
+Hotkey=
+EditorSuffix=""
+[W12C]
+Name="法力风暴"
+Tip="法力风暴"
+Ubertip=""
+Hotkey=
+EditorSuffix=""
+[W12G]
+Name="Effect abil for R06M"
+EditorSuffix=""
+[W128]
+Name="Effect abil for R06K"
+EditorSuffix=""
+[W11Y]
+Name="Effect abil for R06I"
+EditorSuffix=""
+[W12S]
+Name="Effect abil for R06O"
+EditorSuffix=""
+[W136]
+Name="Effect abil for R06Q"
+EditorSuffix=""
+[W0QV]
+Name="Effect abil for R048"
+EditorSuffix=""
+[W137]
+Name="Effect abil for R06R"
+EditorSuffix=""
+[W0QW]
+Name="Effect abil for R047"
+EditorSuffix=""
+[W12H]
+Name="Effect abil for R06L"
+EditorSuffix=""
+[W12J]
+Name=Chain Lightning
+Tip=|cffffcc00C|rhain Lightning
+Ubertip="Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage."
+Hotkey=C
+EditorSuffix=(Neutral Hostile)
+[W0QL]
+Name="Effect abil for R046"
+EditorSuffix=""
+[W0R0]
+Name="Effect abil for R04C"
+EditorSuffix=""
+[W130]
+Name="Effect abil for R06P"
+EditorSuffix=""
+[W15E]
+Name="Effect abil for R07B"
+EditorSuffix=""
+[W15F]
+Name="Effect abil for R07C"
+EditorSuffix=""
+[W15G]
+Name="Effect abil for R07D"
+EditorSuffix=""
+[W0TJ]
+Name="Effect abil for R04M"
+EditorSuffix=""
+[W14Z]
+Name="Effect abil for R074"
+EditorSuffix=""
+[W164]
+Name="Effect abil for R07J"
+EditorSuffix=""
+[W15T]
+Name="Effect abil for R07G"
+EditorSuffix=""
+[W15U]
+Name="Effect abil for R07F"
+EditorSuffix=""
+[W0TV]
+Name="Effect abil for R04Q"
+EditorSuffix=""
+[W15V]
+Name="Effect abil for R07H"
+EditorSuffix=""
+[W0TW]
+Name="Effect abil for R04P"
+EditorSuffix=""
+[W168]
+Name="Effect abil for R07K"
+EditorSuffix=""
+[W169]
+Name="Effect abil for R07L"
+EditorSuffix=""
+[W15Z]
+Name="Effect abil for R07I"
+EditorSuffix=""
+[W0TK]
+Name="Effect abil for R04N"
+EditorSuffix=""
+[W0TL]
+Name="Effect abil for R04O"
+EditorSuffix=""
+[W15N]
+Name="Effect abil for R07E"
+EditorSuffix=""
+[W14B]
+Name="Effect abil for R06Z"
+EditorSuffix=""
+[W0SD]
+Name="Effect abil for R04E"
+EditorSuffix=""
+[W0SE]
+Name="Effect abil for R04F"
+EditorSuffix=""
+[W14G]
+Name="Effect abil for R071"
+EditorSuffix=""
+[W0SH]
+Name="Effect abil for R04G"
+EditorSuffix=""
+[W0SI]
+Name="Effect abil for R04H"
+EditorSuffix=""
+[W13Y]
+Name="Effect abil for R06V"
+EditorSuffix=""
+[W14A]
+Name="Effect abil for R070"
+EditorSuffix=""
+[W0T6]
+Name="Effect abil for R04L"
+EditorSuffix=""
+[W14U]
+Name="Effect abil for R073"
+EditorSuffix=""
+[W156]
+Name="Effect abil for R077"
+EditorSuffix=""
+[W157]
+Name="Effect abil for R078"
+EditorSuffix=""
+[W158]
+Name="Effect abil for R079"
+EditorSuffix=""
+[W159]
+Name="Effect abil for R07A"
+EditorSuffix=""
+[W14L]
+Name="Effect abil for R072"
+EditorSuffix=""
+[W0SO]
+Name="Effect abil for R04I"
+EditorSuffix=""
+[W150]
+Name="Effect abil for R075"
+EditorSuffix=""
+[W0SP]
+Name="Effect abil for R04K"
+EditorSuffix=""
+[W14P]
+Name="刀刃守卫"
+Tip="刀刃守卫"
+Ubertip="在目标点设置一个刀刃守卫，每秒对 |cffffff80150|r 范围内的敌人造成相当于 |cffffff8050%|r 攻击力的 割裂 伤害。最多放置 |cffffff803|r个。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 攻击力比例"
+Hotkey=
+EditorSuffix=""
+[W151]
+Name="Effect abil for R076"
+EditorSuffix=""
+[W0SQ]
+Name="Effect abil for R04J"
+EditorSuffix=""
+[W17H]
+Name="Effect abil for R07W"
+EditorSuffix=""
+[W0VI]
+Name="Effect abil for R04Y"
+EditorSuffix=""
+[W17L]
+Name="Canon 2"
+Tip=Acid |cffffcc00B|romb - [|cffffcc00Level 1|r],Acid |cffffcc00B|romb - [|cffffcc00Level 2|r],Acid |cffffcc00B|romb - [|cffffcc00Level 3|r]
+Researchtip="Learn Acid |cffffcc00B|romb - [|cffffcc00Level %d|r]"
+Ubertip="Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC1>; deals <ANab,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur1> seconds.","Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC2>; deals <ANab,DataD2> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur2> seconds.","Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC3>; deals <ANab,DataD3> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur3> seconds."
+Researchubertip="Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor; deals high damage over time to the primary target; deals slightly less damage over time to nearby targets.|nLasts <ANab,Dur1> seconds.|n|n|cffffcc00Level 1|r - <ANab,DataD1> max damage per second, reduces armor by <ANab,DataC1>.|n|cffffcc00Level 2|r - <ANab,DataD2> max damage per second, reduces armor by <ANab,DataC2>.|n|cffffcc00Level 3|r - <ANab,DataD3> max damage per second, reduces armor by <ANab,DataC3>."
+Hotkey=B
+Researchhotkey=B
+[W17D]
+Name="Effect abil for R07V"
+EditorSuffix=""
+[W0W6]
+Name="Effect abil for R055"
+EditorSuffix=""
+[W17U]
+Name=Chain Lightning
+Tip=|cffffcc00C|rhain Lightning
+Ubertip="Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage."
+Hotkey=C
+EditorSuffix=(Neutral Hostile)
+[W0VV]
+Name="Effect abil for R051"
+EditorSuffix=""
+[W0W7]
+Name="Effect abil for R056"
+EditorSuffix=""
+[W17V]
+Name="Effect abil for R081"
+EditorSuffix=""
+[W187]
+Name="Effect abil for R08B"
+EditorSuffix=""
+[W0W8]
+Name="Effect abil for R058"
+EditorSuffix=""
+[W17W]
+Name="Effect abil for R082"
+EditorSuffix=""
+[W17X]
+Name="Effect abil for R083"
+EditorSuffix=""
+[W17Y]
+Name="Effect abil for R084"
+EditorSuffix=""
+[W17Z]
+Name="Effect abil for R085"
+EditorSuffix=""
+[W180]
+Name="Effect abil for R086"
+EditorSuffix=""
+[W181]
+Name="Effect abil for R087"
+EditorSuffix=""
+[W17Q]
+Name="Effect abil for R07Y"
+EditorSuffix=""
+[W182]
+Name="Effect abil for R088"
+EditorSuffix=""
+[W0VR]
+Name="Effect abil for R04Z"
+EditorSuffix=""
+[W17R]
+Name="Effect abil for R07Z"
+EditorSuffix=""
+[W0VS]
+Name="Effect abil for R050"
+EditorSuffix=""
+[W184]
+Name="Effect abil for R089"
+EditorSuffix=""
+[W0W5]
+Name="Effect abil for R053"
+EditorSuffix=""
+[W17T]
+Name="Effect abil for R080"
+EditorSuffix=""
+[W185]
+Name="Effect abil for R08A"
+EditorSuffix=""
+[W16F]
+Name="Effect abil for R07M"
+EditorSuffix=""
+[W16H]
+Name="Unleash"
+Tip="Unleash"
+Ubertip=""
+Hotkey=
+EditorSuffix=""
+[W16T]
+Name="Effect abil for R07P"
+EditorSuffix=""
+[W16U]
+Name="Effect abil for R07R"
+EditorSuffix=""
+[W176]
+Name="Effect abil for R07S"
+EditorSuffix=""
+[W177]
+Name="Effect abil for R07U"
+EditorSuffix=""
+[W0V8]
+Name="Effect abil for R04V"
+EditorSuffix=""
+[W178]
+Name="Effect abil for R07T"
+EditorSuffix=""
+[W0UX]
+Name="Effect abil for R04S"
+EditorSuffix=""
+[W0V9]
+Name="Effect abil for R04W"
+EditorSuffix=""
+[W0UY]
+Name="Effect abil for R04T"
+EditorSuffix=""
+[W16L]
+Name="Effect abil for R07N"
+EditorSuffix=""
+[W16M]
+Name="Effect abil for R07O"
+EditorSuffix=""
+[W0UN]
+Name="Effect abil for R04R"
+EditorSuffix=""
+[W0V3]
+Name="Effect abil for R04U"
+EditorSuffix=""
+[W0V4]
+Name="Acid Skull"
+Tip=Acid |cffffcc00B|romb - [|cffffcc00Level 1|r],Acid |cffffcc00B|romb - [|cffffcc00Level 2|r],Acid |cffffcc00B|romb - [|cffffcc00Level 3|r]
+Researchtip="Learn Acid |cffffcc00B|romb - [|cffffcc00Level %d|r]"
+Ubertip="Throws an Acid Filled skull onto target unit. Reducing nearby Unit's armor and doing some minor damage over time.","Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC2>; deals <ANab,DataD2> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur2> seconds.","Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC3>; deals <ANab,DataD3> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur3> seconds."
+Researchubertip="Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor; deals high damage over time to the primary target; deals slightly less damage over time to nearby targets.|nLasts <ANab,Dur1> seconds.|n|n|cffffcc00Level 1|r - <ANab,DataD1> max damage per second, reduces armor by <ANab,DataC1>.|n|cffffcc00Level 2|r - <ANab,DataD2> max damage per second, reduces armor by <ANab,DataC2>.|n|cffffcc00Level 3|r - <ANab,DataD3> max damage per second, reduces armor by <ANab,DataC3>."
+Hotkey=B
+Researchhotkey=B
+[W16S]
+Name="Effect abil for R07Q"
+EditorSuffix=""
+[W0XJ]
+Name="Effect abil for R05I"
+EditorSuffix=""
+[W0XK]
+Name="Effect abil for R05H"
+EditorSuffix=""
+[W0XL]
+Name="Effect abil for R05J"
+EditorSuffix=""
+[W0XN]
+Name="Effect abil for R05K"
+EditorSuffix=""
+[W19A]
+Name="Effect abil for R097"
+EditorSuffix=""
+[W19B]
+Name="Effect abil for R098"
+EditorSuffix=""
+[W0XC]
+Name="Effect abil for R05G"
+EditorSuffix=""
+[W19C]
+Name="Effect abil for R099"
+EditorSuffix=""
+[W19W]
+Name="Effect abil for R09A"
+EditorSuffix=""
+[W0Y9]
+Name="Effect abil for R05P"
+EditorSuffix=""
+[W19X]
+Name="Effect abil for R09B"
+EditorSuffix=""
+[W0XO]
+Name="Effect abil for R05L"
+EditorSuffix=""
+[W0XS]
+Name="Effect abil for R05M"
+EditorSuffix=""
+[W0XT]
+Name="Effect abil for R05N"
+EditorSuffix=""
+[W0Y6]
+Name="Effect abil for R05O"
+EditorSuffix=""
+[W18F]
+Name="Effect abil for R08F"
+EditorSuffix=""
+[W18G]
+Name="Effect abil for R08G"
+EditorSuffix=""
+[W18J]
+Name="Effect abil for R08H"
+EditorSuffix=""
+[W18K]
+Name="Effect abil for R08I"
+EditorSuffix=""
+[W0WL]
+Name="Effect abil for R059"
+EditorSuffix=""
+[W18L]
+Name="Effect abil for R08J"
+EditorSuffix=""
+[W18A]
+Name="Effect abil for R08C"
+EditorSuffix=""
+[W18C]
+Name="Effect abil for R08D"
+EditorSuffix=""
+[W18E]
+Name="Effect abil for R08E"
+EditorSuffix=""
+[W0X7]
+Name="Effect abil for R05E"
+EditorSuffix=""
+[W18V]
+Name="Effect abil for R08Q"
+EditorSuffix=""
+[W197]
+Name="Effect abil for R091"
+EditorSuffix=""
+[W0X8]
+Name="Effect abil for R05F"
+EditorSuffix=""
+[W18W]
+Name="Effect abil for R08R"
+EditorSuffix=""
+[W198]
+Name="Effect abil for R095"
+EditorSuffix=""
+[W18X]
+Name="Effect abil for R08S"
+EditorSuffix=""
+[W199]
+Name="Effect abil for R096"
+EditorSuffix=""
+[W18Y]
+Name="Effect abil for R08T"
+EditorSuffix=""
+[W0WZ]
+Name="Effect abil for R05A"
+EditorSuffix=""
+[W18Z]
+Name="Effect abil for R08U"
+EditorSuffix=""
+[W0X0]
+Name="Effect abil for R05B"
+EditorSuffix=""
+[W18O]
+Name="Effect abil for R08K"
+EditorSuffix=""
+[W190]
+Name="Effect abil for R08V"
+EditorSuffix=""
+[W0X1]
+Name="Effect abil for R05D"
+EditorSuffix=""
+[W191]
+Name="Effect abil for R08W"
+EditorSuffix=""
+[W0X2]
+Name="Effect abil for R05C"
+EditorSuffix=""
+[W18Q]
+Name="Effect abil for R08L"
+EditorSuffix=""
+[W192]
+Name="Effect abil for R08X"
+EditorSuffix=""
+[W18R]
+Name="Effect abil for R08M"
+EditorSuffix=""
+[W193]
+Name="Effect abil for R08Y"
+EditorSuffix=""
+[W18S]
+Name="Effect abil for R08N"
+EditorSuffix=""
+[W194]
+Name="Effect abil for R08Z"
+EditorSuffix=""
+[W18T]
+Name="Effect abil for R08O"
+EditorSuffix=""
+[W195]
+Name="Effect abil for R090"
+EditorSuffix=""
+[W18U]
+Name="Effect abil for R08P"
+EditorSuffix=""
+[W0ZL]
+Name="Effect abil for R05Y"
+EditorSuffix=""
+[W0ZH]
+Name="Effect abil for R05X"
+EditorSuffix=""
+[W0ZS]
+Name="Effect abil for R05Z"
+EditorSuffix=""
+[W0ZW]
+Name="Effect abil for R060"
+EditorSuffix=""
+[W0YJ]
+Name="Effect abil for R05R"
+EditorSuffix=""
+[W0YA]
+Name="Effect abil for R05Q"
+EditorSuffix=""
+[W0YF]
+Name="Glare"
+Tip=|cffffcc00F|rorked Lightning - [|cffffcc00Level 1|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 2|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 3|r]
+Ubertip="Calls forth a cone of lightning on a target enemy unit, hitting up to <ANfl,DataB1> enemy units for <ANfl,DataA1> damage.","Calls forth a cone of lightning from the Sea Witch, hitting up to <ANfl,DataB2> enemy units for <ANfl,DataA2> damage.","Calls forth a cone of lightning from the Sea Witch, hitting up to <ANfl,DataB3> enemy units for <ANfl,DataA3> damage."
+Hotkey=F
+Researchtip="Learn |cffffcc00F|rorked Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Calls forth a cone of lightning to damage enemies. |n|n|cffffcc00Level 1|r - <ANfl,DataA1> damage per unit. |n|cffffcc00Level 2|r - <ANfl,DataA2> damage per unit. |n|cffffcc00Level 3|r - <ANfl,DataA3> damage per unit."
+Researchhotkey=F
+[W0Z2]
+Name="Effect abil for R05U"
+EditorSuffix=""
+[W0Z3]
+Name="Effect abil for R05V"
+EditorSuffix=""
+[W0Z4]
+Name="Effect abil for R05W"
+EditorSuffix=""
+[W0YT]
+Name="Effect abil for R05S"
+EditorSuffix=""
+[W0YU]
+Name="Effect abil for R05T"
+EditorSuffix=""
+[ABAN]
+Name="Banish ability"
+EditorSuffix=""
+[ASLO]
+Name="Slow ability"
+EditorSuffix=""
+[ASTU]
+Name="Stun ability"
+EditorSuffix=""
+[ATav]
+Name=Select Unit
+Tip=Select |cffffcc00U|rnit
+Untip=Deselect |cffffcc00U|rnit
+Hotkey=U
+Unhotkey=U
+[AUNL]
+Name="Unlucky ability"
+EditorSuffix=""
+[AMAN]
+Name="ManaDrain ability"
+EditorSuffix=""
+[CSIL]
+Name="Silence cast"
+Tip=|cffffcc00D|room
+Ubertip="Marks a target unit for the manifestation of a Demon. The afflicted unit cannot cast spells and will take <ANdo,DataA1> damage per second until it dies. Upon its death, a great Demon will spawn from its corpse. Doom cannot be dispelled or cancelled."
+Hotkey=
+Researchtip="Learn |cffffcc00D|room"
+Researchubertip="Marks a target unit for the manifestation of a Demon. The afflicted unit cannot cast spells and will take <ANdo,DataA1> damage per second until it dies. Upon its death, a great Demon will spawn from its corpse. Doom cannot be dispelled or cancelled."
+Researchhotkey=D
+[INV3]
+Name=Inventory
+EditorSuffix=(Hero)
+[INV4]
+Name=Inventory
+EditorSuffix=(Hero)
+[INV1]
+Name=Inventory
+EditorSuffix=(Hero)
+[INV2]
+Name=Inventory
+EditorSuffix=(Hero)
+[INV5]
+Name=Inventory
+EditorSuffix=(Hero)
+[INV6]
+Name=Inventory
+EditorSuffix=""
+[R011]
+Bufftip=爆裂
+Buffubertip=
+[R01W]
+Bufftip=爆裂
+Buffubertip=
+[R02F]
+Bufftip=警戒
+Buffubertip=这座塔处于警戒状态，它的基础攻击力增加了。
+EditorName=警戒
+[R02G]
+Bufftip=非法入侵
+Buffubertip=这个单位非法入侵，它的护甲被降低了。
+EditorName=非法入侵
+[R02O]
+Bufftip=光明光环
+Buffubertip=这个单位对亡灵造成更多伤害。
+EditorName=光明光环
+[R01A]
+Bufftip=新星风暴
+Buffubertip=这个单位被新星风暴击中，它的移动速度降低了。
+EditorName=新星风暴
+[R020]
+Bufftip=古代魔法
+Buffubertip=这个单位受到古代魔法效果影响，它的法术暴击几率增加了。
+EditorName=古代魔法
+[R021]
+Bufftip=极度寒冷
+Buffubertip=这个单位受到极度寒冷效果的影响，它的移动速度降低，效果消失后会进入眩晕状态。
+EditorName=Extreme Cold
+[R03X]
+Bufftip=地穴剧毒
+Buffubertip=这个单位被地穴剧毒感染
+EditorName=地穴剧毒
+[R04T]
+Bufftip=液态火
+Buffubertip=这个单位持续受到伤害，并且受到火焰系塔的伤害提高。
+EditorName=液态火
+[R03D]
+Bufftip=神圣教育
+Buffubertip=这个单位将越来越聪明，获得额外的经验值。
+EditorName=神圣教育
+[BSIL]
+Bufftip=沉默
+Buffubertip=这个单位不能使用技能
+[R03Q]
+Bufftip=爆裂
+Buffubertip=
+[R03P]
+Bufftip=冰冻之雾
+Buffubertip=这个单位被冰冻之雾减速了
+EditorSuffix=
+EditorName=冰冻之雾
+[R072]
+Bufftip=热量光环
+Buffubertip=这个单位受到高温影响，不断流失生命，死亡时会发生爆炸
+EditorSuffix=
+EditorName=热量光环
+[R04X]
+EditorName=Item Change Time of Day
+[R059]
+Bufftip=爆裂
+Buffubertip=
+[R04W]
+Bufftip=灵魂偷取
+Buffubertip=这个单位的灵魂被囚禁在穹窿中，它会受到更多法术伤害。
+[R07C]
+EditorName=伊米尔之身
+Buffubertip=伊米尔的古老肉体可以减少负面状态持续时间。
+Bufftip=伊米尔之身
+[R07D]
+Bufftip=伊米尔之怒
+Buffubertip=这个单位被伊米尔之怒减速了。
+EditorName=伊米尔之怒
+[R07X]
+Bufftip=遭受攻击
+Buffubertip=这个单位受到伤害
+EditorName=遭受攻击

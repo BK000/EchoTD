@@ -1,0 +1,198 @@
+[BUlo]
+Bufftip=Locust
+[Amtc]
+Name=Cargo Hold
+[Atru]
+Name=真实视野
+Tip=真实视野
+Ubertip="显示附近的隐形单位"
+EditorSuffix= (Shade)
+[Auns]
+Name=Unsummon Building
+Tip=|cffffcc00U|rnsummon Building
+Ubertip="Unsummons your building to regain <Auns,DataA1,%>% of the spent resources."
+Hotkey=U
+[Aapl]
+Name=Disease Cloud
+Tip=Disease Cloud
+Ubertip="Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap1,DataB1> damage per second. |nLasts <Aap1,DataA1> seconds."
+[AUcs]
+Name=Carrion Swarm
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]"
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Level 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Level 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Level 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[BUcs]
+EditorName=Carrion Swarm (Caster)
+[Xfus]
+EditorName=Building Damage - Undead Small
+[Xfum]
+EditorName=Building Damage - Undead Medium
+[Xful]
+EditorName=Building Damage - Undead Large
+[W0DP]
+Name="Bat Swarm"
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]"
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Level 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Level 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Level 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[W0EH]
+Name="Ain Soph Aur"
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]"
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Level 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Level 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Level 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[W0OJ]
+Name="Ain Soph Aur"
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]"
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Level 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Level 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Level 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[W131]
+Name="Aqua Edge"
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]"
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Level 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Level 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Level 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[W0YC]
+Name="Ain Soph Aur"
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]"
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Level 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Level 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Level 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[R007]
+Bufftip=月之优雅
+Buffubertip=这个单位承受的法术伤害提高。
+EditorName=月之优雅
+[R00J]
+Bufftip=灵魂散落
+Buffubertip=这座塔的攻击速度降低。
+[R000]
+Bufftip=萎缩
+Buffubertip=这个单位正在萎缩，它的移动速度降低了。
+EditorName=萎缩
+[R026]
+Bufftip=致命缠绕
+Buffubertip=这个单位受到了致命缠绕的影响，它对人类和兽人怪物的伤害提高。
+EditorName=致命缠绕
+[R025]
+Bufftip=削弱
+Buffubertip=这个单位被削弱，它的移动速度降低，并且受到的法术伤害提高。
+EditorName=削弱
+[R02B]
+Bufftip=冰冻
+Buffubertip=这个单位被冻住了，它无法移动。
+[R02D]
+EditorName=Bat Swarm
+[R033]
+Bufftip=月光
+Buffubertip=这个单位受到更多的法术伤害，并且受到来自某些元素的塔的额外伤害。
+[R031]
+Bufftip=雷霆领域
+Buffubertip=这个单位受风暴系塔的伤害提高
+[R032]
+Bufftip=阳光
+Buffubertip=这个单位的护甲降低，并且受到来自某些元素的塔的额外伤害。
+[R02N]
+Bufftip=灵魂复仇
+Buffubertip=这个单位死亡时，附近的灵魂大厅系塔会获得经验值和攻击力。
+[R02M]
+Bufftip=霜冻光环
+Buffubertip=这个单位的移动速度降低。
+[R00T]
+Bufftip=黑暗诅咒
+Buffubertip=这个单位受到的攻击伤害提高。
+EditorName=黑暗诅咒
+[R04D]
+Bufftip=残废
+Buffubertip=这个单位残废了，它的移动速度会持续降低。
+EditorName=残废
+[R04R]
+Bufftip=科多兽的粪便
+Buffubertip=这个单位从燃烧着的科多粪中获得了能量。
+EditorName=科多兽的粪便
+[R051]
+Bufftip=暗影波
+Buffubertip=这个单位的下次攻击会眩晕它自己。
+EditorName=暗影波
+[R06D]
+Bufftip=星辰爆发
+Buffubertip=星辰爆发刚刚通过了传送门
+[R06E]
+Bufftip=星界转移
+Buffubertip=这个单位被强化的猎鹰击中，它会受到来自星辰系塔的额外伤害。
+[R070]
+Bufftip=灵动
+Buffubertip=这座塔的每秒伤害提高。
+[R06W]
+Bufftip=不朽的意志
+Buffubertip=这个单位的攻击力提高。
+[R06R]
+Bufftip=魔力爆发
+Buffubertip=这座塔的法术伤害提高。
+EditorName=魔力爆发
+[R05I]
+Bufftip=过载
+Buffubertip=这个单位的移动速度降低。
+EditorName=过载
+[R05J]
+Bufftip=能量场
+Buffubertip=这个单位受到风暴系塔的伤害提高。
+EditorName=能量场
+[R05H]
+Bufftip=电磁脉冲
+Buffubertip=这个单位受到了电磁脉冲的影响，当它移动时会受到伤害。
+EditorName=电磁脉冲
+[R08F]
+Bufftip=幸运宝石减速
+Buffubertip=这个单位被幸运宝石减速了。
+EditorName=幸运宝石减速
+[R08L]
+Bufftip=致残
+Buffubertip=这个单位被致残，它的移动速度降低。
+EditorName=致残
+[R06Z]
+Bufftip=蓝蜉蝣
+Buffubertip=这个单位被蓝蜉蝣减速了。
+[R06X]
+Bufftip=不朽的意志
+Buffubertip=这个单位的攻击力降低。
+[R06Y]
+Bufftip=凋零的存在
+Buffubertip=这个单位的生命恢复速度降低。
+[R07B]
+Bufftip=依米尔之血
+Buffubertip=这个单位受到了依米尔之血的影响，受到来自寒冰系塔的额外伤害。
+EditorName=依米尔之血
+[R080]
+Bufftip=准备捡东西！
+Buffubertip=下一个被此塔击杀的怪物一定会掉落物品。
+EditorName=Backpack Buff
+[R07K]
+Bufftip=冷血
+Buffubertip=这个单位的攻击速度提高。
+[R07L]
+Bufftip=冰冷触摸
+Buffubertip=这个单位被减速。
+[R07W]
+Bufftip=缓慢凋零
+Buffubertip=这个单位的生命力被缓慢吸收，当它的血量低于某个百分比时会直接死亡。
+EditorName=缓慢凋零
+[R085]
+Bufftip=吹起
+Buffubertip=这个单位被吹起，在空中被击杀时会给予更多经验值。
+[R09A]
+Bufftip=恐惧光环
+Buffubertip=这个单位的移动速度降低。

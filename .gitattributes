@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.blp binary
+*.txt text eol=crlf
+*.j text eol=crlf

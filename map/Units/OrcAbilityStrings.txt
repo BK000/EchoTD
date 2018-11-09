@@ -1,0 +1,256 @@
+[Absk]
+Name=Berserk
+Tip="|cffffcc00B|rerserk"
+Ubertip="Causes this unit to attack <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage."
+Hotkey=B
+[Bbsk]
+Bufftip=Berserk
+Buffubertip="This unit is Berserk; it will deal more damage, but also take more damage from attacks."
+[Acha]
+Name=Chaos
+[Awar]
+Name=Pulverize
+[Bsta]
+Bufftip=Stasis Trap
+Buffubertip="This unit is stunned by Stasis Trap and cannot move, attack or cast spells."
+[BIpb]
+Bufftip=Venom
+Buffubertip="This unit is poisoned, and will take damage over time."
+EditorSuffix= (Non-stacking)
+[BIpd]
+Bufftip=Venom
+Buffubertip="This unit is poisoned; it will take damage over time."
+EditorSuffix= (Stacking)
+[BIpi]
+EditorName=Venom (Info)
+[Anit]
+Name=Tracking
+[AOcl]
+Name=Chain Lightning
+Tip=|cffffcc00C|rhain Lightning - [|cffffcc00Level 1|r],|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r],|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]
+Ubertip="Calls forth a bolt of lightning that bounces up to <AOcl,DataB1> times, dealing <AOcl,DataA1> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[AOre]
+Name=Reincarnation
+Tip=Reincarnation
+Ubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchtip=Learn |cffffcc00R|reincarnation
+Researchubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchhotkey=R
+Globalmessage=
+Globalsound=
+[BOws]
+Bufftip=War Stomp
+Buffubertip="This unit has been hit by War Stomp; it cannot move, attack or cast spells for a short duration."
+[XOre]
+EditorName=Reincarnation (Effect)
+[Xfos]
+EditorName=Building Damage - Orc Small
+[Xfom]
+EditorName=Building Damage - Orc Medium
+[Xfol]
+EditorName=Building Damage - Orc Large
+[XTOG]
+Name="切换积分面板"
+Tip="切换积分面板 (|cffffcc00esc|r)"
+Ubertip="在普通模式和统计模式间切换。"
+Hotkey=
+[W02J]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[W06A]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[W0FA]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[W0S1]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[WC01]
+Name=Reincarnation
+Tip=Reincarnation
+Ubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchtip=Learn |cffffcc00R|reincarnation
+Researchubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchhotkey=R
+Globalmessage=
+Globalsound=
+[R00B]
+Bufftip=灼热煤块
+Buffubertip=这个单位受到了灼热煤块效果的影响，它的暴击率提高了。
+EditorName=灼热煤块
+[R00P]
+Bufftip=蚀心剧毒
+Buffubertip=这个单位持续受到伤害！
+EditorSuffix=
+EditorName=Poisoned_heart
+[R01Y]
+Bufftip=森林之馈赠
+Buffubertip=这个单位被森林之馈赠减速了。
+EditorSuffix=
+EditorName=森林之馈赠
+[R01Z]
+Bufftip=暴怒
+Buffubertip=这个单位处于暴怒状态，它的攻击速度大幅度提高了。
+[R028]
+Bufftip=灵魂链接
+Buffubertip=这个单位的灵魂与其他单位连接。
+[R029]
+Bufftip=嗜血
+Buffubertip=这个单位受到嗜血效果的影响，它的攻击速度提高了。
+EditorName=嗜血
+[R01T]
+Bufftip=紧张
+Buffubertip=这个单位的攻击力提高，但是攻击速度降低。
+EditorName=紧张
+[R00Y]
+Bufftip=冰雪之爪
+Buffubertip=这个单位被冰雪之爪击中，它的移动速度降低，并且持续受到伤害。
+[R00S]
+Bufftip=风切
+Buffubertip=这个单位具有风切效果，它的攻击速度提高，并且在攻击时有几率释放连锁闪电。
+[R00Z]
+Bufftip=元素之怒
+Buffubertip=这个单位的触发率提高了。
+EditorName=元素之怒
+[R01G]
+Bufftip=狂热
+Buffubertip=这个单位的攻击速度被附近的狂热者降低了。
+[R01E]
+Bufftip=相位之刃
+Buffubertip=这个单位受到来自狂热者更多的伤害。
+[R01F]
+Bufftip=闪电之盾
+Buffubertip=这个单位的负面效果持续时间降低。
+[R01D]
+Bufftip=热诚
+Buffubertip=这个单位的攻击速度提高了。
+[R03W]
+Bufftip=燃烧印记
+Buffubertip=这个单位受到了燃烧印记的影响，它的攻击强度提高了。
+EditorName=燃烧印记
+[R048]
+Bufftip=双修
+Buffubertip=这座塔的攻击暴击率提高。
+[R03U]
+Bufftip=充能
+Buffubertip=这个单位被充能，它的攻击速度提高了。
+EditorName=充能
+[R047]
+Bufftip=双修
+Buffubertip=这座塔的法术暴击率提高。
+[R04L]
+Bufftip=士气提升
+Buffubertip=这个单位受到了士气提升效果的影响，它的攻击力和攻击速度提高了。
+EditorName=士气提升
+[R04U]
+Bufftip=哨兵
+Buffubertip=这个单位处于警戒状态，攻击力提高。
+EditorName=哨兵
+[R04S]
+Bufftip=地狱火
+Buffubertip=这座塔的攻击速度提高并且具有多重射击。
+EditorName=地狱火
+[R038]
+Bufftip=暗藏杀机
+Buffubertip=这个单位的法术伤害和法术暴击几率提高。
+[R03J]
+Bufftip=绿龙之力
+Buffubertip=这个单位受到了绿龙之力的影响，它的多重暴击数提高了。
+EditorName=绿龙之力
+[R03G]
+Bufftip=手榴弹碎片
+Buffubertip=这个单位被手榴弹的碎片击中，受到的攻击伤害提高。
+EditorName=手榴弹碎片
+[R03F]
+Bufftip=兴奋剂
+Buffubertip=这个单位使用了兴奋剂，攻击速度提高。
+EditorName=兴奋剂
+[R06T]
+Bufftip=带电
+Buffubertip=这个单位对附近的单位造成伤害。
+EditorName=带电
+[R06Q]
+Bufftip=急速施法
+Buffubertip=圣贤的触发几率提高。
+EditorName=急速施法
+[R05R]
+Bufftip=静态力场
+Buffubertip=这座塔对魔免怪物造成更多伤害。
+EditorName=静态力场
+[R07Z]
+Bufftip=蜘蛛毒
+Buffubertip=这个单位中毒了。
+EditorSuffix=
+EditorName=蜘蛛毒
+[R08H]
+Bufftip=萨满仪式
+Buffubertip=这座塔的攻击力和经验获取率提高。
+EditorName=萨满仪式
+[R08E]
+Bufftip=嗜血
+Buffubertip=这个单位受到嗜血效果的影响，它的攻击速度提高了。
+EditorName=嗜血
+[R08B]
+Bufftip=宿醉
+Buffubertip=这座塔的攻击速度降低，效果结束时会眩晕一小会儿。
+EditorName=宿醉
+[R08N]
+Bufftip=法力光环
+Buffubertip=这个单位受到法力光环的影响，法力回复速度提高了。
+[R08J]
+Bufftip=致命毒药
+Buffubertip=这个单位受到致命毒药的影响，持续受到伤害。
+EditorSuffix=(Stacking)
+[R08X]
+Bufftip=凋零
+Buffubertip=这个单位在腐蚀精华附近，受到的伤害提高。
+[R08Y]
+Bufftip=战歌巨鼓
+Buffubertip=这座塔的攻击速度提高。
+EditorName=战歌巨鼓
+[R08W]
+Bufftip=凋零
+Buffubertip=这座塔在腐蚀精华附近，攻击速度降低。
+[R095]
+Bufftip=力场
+Buffubertip=这座塔的负面效果持续时间降低。
+[R07J]
+Bufftip=疾风
+Buffubertip=这个单位受到了疾风的影响。
+EditorName=疾风
+EditorSuffix=ZV
+[R086]
+Bufftip=大地与月亮
+Buffubertip=这座塔的触发几率提高。
+[R084]
+Bufftip=魔法导体
+Buffubertip=这座塔被魔法效果击中，它的攻击速度提高。
+EditorName=魔法导体
+[R082]
+Bufftip=优雅圣契
+Buffubertip=这个单位的经验获取率提高。

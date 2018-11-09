@@ -1,0 +1,7 @@
+[oang]
+Name=Ancestral Guardian
+[orbr]
+Name=Reinforced Orc Burrow
+Hotkey=O
+Tip=Build Reinforced |cffffcc00O|rrc Burrow
+Ubertip="Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units. |n|n|cffffcc00Attacks land and air units.|r"

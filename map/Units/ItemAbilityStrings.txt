@@ -1,0 +1,282 @@
+[AIat]
+Name=Item Damage Bonus
+EditorSuffix=(+3)
+[AIde]
+Name=Item Armor Bonus
+[AIhe]
+Name=Item Healing
+[AIvi]
+Name=Item Temporary Invisibility
+[AIma]
+Name=Item Mana Regain
+[Bdef]
+Bufftip=Scroll of Protection
+Buffubertip="This unit is affected by a Scroll of Protection; its armor is temporarily increased."
+[AIta]
+Name=Item Area Detection
+[AIfi]
+Name=Item Firebolt
+[AIfb]
+Name=Item Attack Fire Bonus
+[AItp]
+Name=Item Town Portal
+[AIaa]
+Name=Item Permanent Damage Gain
+[AImi]
+Name=Item Permanent Life Gain
+[AIab]
+Name=Item Hero Stat Bonus
+[AIml]
+Name=Item Life Bonus
+[Aami]
+Name=Item Anti-Magic Shell
+[AImm]
+Name=Item Mana Bonus
+[AIas]
+Name=Item Attack Speed Bonus
+[AIaa]
+Name=Item Attack Damage Gain
+[AImi]
+Name=Item Life Gain
+[AIi6]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+6 Intelligence)
+[AIt9]
+Name=Item Damage Bonus
+EditorSuffix=(+9)
+[AIh1]
+Name=Item Healing
+EditorSuffix=(Lesser)
+[AIm1]
+Name=Item Mana Regain
+EditorSuffix=(Lesser)
+[AIar]
+EditorSuffix=(Item)
+[AIfc]
+Name=Flying Carpet
+[BIrl]
+Bufftip=Regeneration
+Buffubertip="This unit has Regeneration on it; its hit points will regenerate over time."
+[AIpl]
+Name=Lesser Clarity Potion
+[BIrm]
+Bufftip=Clarity Potion
+Buffubertip="This unit drank a Clarity Potion; its mana will regenerate over time."
+[AIsl]
+Name=Scroll of Regeneration
+[BIrg]
+Bufftip=Rejuvenation
+Buffubertip="This unit will regenerate health and mana over time."
+EditorSuffix= (Item)
+[AIct]
+Name=Change Time of Day
+[AIbl]
+Name=Build Tiny Castle
+[AIbt]
+Name=Build Tiny Scout Tower
+[Amec]
+Name=Mechanical Critter
+[Bmec]
+Bufftip=Mechanical Critter
+Buffubertip="Summoned units take damage from dispels."
+[ANsa]
+Name=Staff of Sanctuary
+[BNsa]
+Bufftip=Sanctuary
+Buffubertip="This unit is under the effects of a Staff of Sanctuary; its hit points will regenerate over time, but it cannot move, attack or cast spells."
+[Bdet]
+Bufftip=Dust of Appearance
+Buffubertip="The Dust of Appearance reveals invisible units to enemy players."
+[AIdd]
+Name=Passive Defense
+[Btrv]
+EditorName=Teleport Reveal
+[Ahp8]
+Name="HP Bonus1"
+EditorSuffix=""
+[Ahp6]
+Name="HP Bonus-1"
+EditorSuffix=""
+[Ahp5]
+Name="HP Bonus-2"
+EditorSuffix=""
+[Ahp4]
+Name="HP Bonus-3"
+EditorSuffix=""
+[Ahp3]
+Name="HP Bonus-4"
+EditorSuffix=""
+[Ahp2]
+Name="HP Bonus-5"
+EditorSuffix=""
+[Ahp1]
+Name="HP Bonus-6"
+EditorSuffix=""
+[XBUI]
+Name="Build Tower"
+[Aar7]
+Name="Armor2"
+EditorSuffix=""
+[Aar6]
+Name="Armor1"
+EditorSuffix=""
+[Aar4]
+Name="Armor-1"
+EditorSuffix=""
+[Aar3]
+Name="Armor-2"
+EditorSuffix=""
+[Aas7]
+Name="Attack Speed2"
+EditorSuffix=""
+[Aas6]
+Name="Attack Speed1"
+EditorSuffix=""
+[Aas4]
+Name="Attack Speed-1"
+EditorSuffix=""
+[Aas3]
+Name="Attack Speed-2"
+EditorSuffix=""
+[W0AM]
+Name="Buff Spikes"
+EditorSuffix=(+1)
+[W0KL]
+Name="Buff Fire"
+EditorSuffix=(+1)
+[W0KM]
+Name="Buff Spikes"
+EditorSuffix=(+1)
+[W0VD]
+Name=Change Time of Day
+[W0UC]
+Name="Buff Spikes"
+EditorSuffix=(+1)
+[Adm9]
+Name="Damage4"
+EditorSuffix=""
+[Adm8]
+Name="Damage3"
+EditorSuffix=""
+[Adm7]
+Name="Damage2"
+EditorSuffix=""
+[Adm6]
+Name="Damage1"
+EditorSuffix=""
+[Adm4]
+Name="Damage-1"
+EditorSuffix=""
+[Adm3]
+Name="Damage-2"
+EditorSuffix=""
+[Adm2]
+Name="Damage-3"
+EditorSuffix=""
+[Adm1]
+Name="Damage-4"
+EditorSuffix=""
+[Ama4]
+Name="Mana Bonus-1"
+[Ama3]
+Name="Mana Bonus-2"
+[Ama2]
+Name="Mana Bonus-3"
+[Ama8]
+Name="Mana Bonus3"
+[Ama7]
+Name="Mana Bonus2"
+[Ama6]
+Name="Mana Bonus1"
+[ADMH]
+Name="Base Damage +128"
+[ADMI]
+Name="Base Damage +256"
+[ADMF]
+Name="Base Damage +32"
+[ADMG]
+Name="Base Damage +64"
+[ADMD]
+Name="Base Damage +8"
+[ADME]
+Name="Base Damage +16"
+[ADMB]
+Name="Base Damage +2"
+[ADMC]
+Name="Base Damage +4"
+[ADMA]
+Name="Base Damage +1"
+[ADNI]
+Name="Base Damage -256"
+[ADNJ]
+Name="Base Damage -512"
+[ADNG]
+Name="Base Damage -64"
+[ADNH]
+Name="Base Damage -128"
+[ADNE]
+Name="Base Damage -16"
+[ADNF]
+Name="Base Damage -32"
+[ADNC]
+Name="Base Damage -4"
+[ADND]
+Name="Base Damage -8"
+[ADNA]
+Name="Base Damage -1"
+[ADNB]
+Name="Base Damage -2"
+[ADMT]
+Name="Base Damage +524288"
+[ADMR]
+Name="Base Damage +131072"
+[ADMS]
+Name="Base Damage +262144"
+[ADMP]
+Name="Base Damage +32768"
+[ADMQ]
+Name="Base Damage +65536"
+[ADMN]
+Name="Base Damage +8192"
+[ADMO]
+Name="Base Damage +16384"
+[ADML]
+Name="Base Damage +2048"
+[ADMM]
+Name="Base Damage +4096"
+[ADMJ]
+Name="Base Damage +512"
+[ADMK]
+Name="Base Damage +1024"
+[ADNS]
+Name="Base Damage -262144"
+[ADNT]
+Name="Base Damage -524288"
+[ADNQ]
+Name="Base Damage -65536"
+[ADNR]
+Name="Base Damage -131072"
+[ADNO]
+Name="Base Damage -16384"
+[ADNP]
+Name="Base Damage -32768"
+[ADNM]
+Name="Base Damage -4096"
+[ADNN]
+Name="Base Damage -8192"
+[ADNK]
+Name="Base Damage -1024"
+[ADNL]
+Name="Base Damage -2048"
+[R003]
+Bufftip=余辉
+Buffubertip=这个单位的护甲降低。
+EditorName=!ArmoryReduction
+[R03R]
+Bufftip=金色感化
+Buffubertip=这个单位的金钱获取率提高。
+EditorName=Golden
+[R08G]
+Bufftip=宝石护甲
+Buffubertip=这个单位的护甲被幸运宝石降低了。
+EditorName=Gem Armor

@@ -1,0 +1,197 @@
+[Aall]
+Name=Shop Sharing, Allied Bldg.
+[Abdt]
+Name=Burrow Detection
+EditorSuffix= (Fliers, Obsolete)
+[Apit]
+Name=Shop Purchase Item
+[Amou]
+Name=Mount
+Tip=Mo|cffffcc00r|rph
+Untip=De-Mo|cffffcc00r|rph
+Ubertip="Morphs the hero into an alternate form."
+Unubertip="Returns the hero to normal form."
+Hotkey=R
+Unhotkey=R
+[Ahar]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Mines gold from gold mines and harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest town hall."
+Hotkey=G
+Unhotkey=E
+EditorSuffix= (Gold and Lumber)
+[Ahrl]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest Necropolis or Graveyard."
+Hotkey=G
+Unhotkey=E
+EditorSuffix= (Ghouls Lumber)
+[Arev]
+Name=Revive Hero
+[Aawa]
+Name=Revive Hero Instantly
+[Adet]
+Name=Detector
+[Adta]
+Name=Reveal
+Tip=|cffffcc00R|reveal
+Hotkey=R
+[Bdet]
+Bufftip=侦测
+Buffubertip="这个单位被侦测到了。敌方将可看到它。"
+[Bvul]
+Bufftip=无敌
+Buffubertip="这个单位处于无敌状态。不会受到任何伤害也无法被法术指定为目标。"
+[Bspe]
+Bufftip=速度提高
+Buffubertip="这个单位的移动速度增加了；它的移动速度比平时更快。"
+[Bfro]
+Bufftip=减速
+Buffubertip="这个单位被减速了；它的移动速度比平时更慢。"
+[Arep]
+Name=Repair
+Tip=|cffffcc00R|repair
+Ubertip="Repairs mechanical units and structures at the cost of resources."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+[AEbu]
+Name=Build (Night Elf)
+[AGbu]
+Name=Build (Naga)
+[AHbu]
+Name=Build (Human)
+[AHer]
+Name=Hero
+[ANbu]
+Name=Build (Neutral)
+[AObu]
+Name=Build (Orc)
+[ARal]
+Name=Rally
+[AUbu]
+Name=Build (Undead)
+[Aalr]
+Name=Alarm
+[Aatk]
+Name=Attack
+[Afih]
+Name=On Fire (Human)
+[Afin]
+Name=On Fire (Night Elf)
+[Afio]
+Name=On Fire (Orc)
+[Afir]
+Name=On Fire
+[Afiu]
+Name=On Fire (Undead)
+[Aloc]
+Name=Locust
+[Amov]
+Name=Move
+[BSTN]
+Bufftip=击晕
+Buffubertip="这个单位被击晕了；它无法移动、攻击或施法。"
+[BPSE]
+Bufftip=击晕
+Buffubertip="这个单位无法移动。"
+EditorSuffix= (Pause)
+[Xbdt]
+EditorName=Reveal (Effect)
+[Xbli]
+EditorName=Blight (Effect)
+[Xdis]
+EditorName=Hero Dissipate (Effect)
+[BBAN]
+Bufftip=虚无
+Buffubertip=这个单位无法进行攻击，也不会受到物理攻击。但是它可以施法，并且从魔法攻击和法术中受到额外伤害。
+[R00F]
+Bufftip=灵魂深寒
+Buffubertip=这个单位被灵魂深寒减速了。
+EditorName=灵魂深寒
+[R00L]
+Bufftip=减速
+Buffubertip=这个单位的移动速度被降低了。
+EditorName=减速
+[R001]
+Bufftip=减速
+Buffubertip=这个单位感受到霜寒刺骨，它的移动速度降低了。
+EditorName=!Slow
+[R01S]
+Bufftip=减速
+Buffubertip=这个单位的移动速度被降低了。
+EditorName=减速
+[R02J]
+Bufftip=震荡弹
+Buffubertip=这个单位的移动速度被降低了。
+[R02K]
+Bufftip=烟雾弹
+Buffubertip=这个单位装备了烟雾弹。
+[R02H]
+Bufftip=震荡弹
+Buffubertip=这个单位装备了震荡弹。
+[R02I]
+Bufftip=酸蚀弹
+Buffubertip=这个单位装备了酸蚀弹。
+[R02L]
+Bufftip=酸性炸弹
+Buffubertip=这个单位的护甲降低。
+[R00V]
+Bufftip=减速
+Buffubertip=这个单位的移动速度被降低了。
+EditorName=减速
+[R015]
+Bufftip=绝对零度
+Buffubertip=这个单位被暴风雪击中，它的移动速度降低。
+[R00U]
+Bufftip=新星之寒
+Buffubertip=这个单位被冰霜新星击中，它的移动速度降低。
+[R01I]
+Bufftip=霜冻
+Buffubertip=这个单位的移动速度被降低了。
+[R01N]
+Bufftip=感电
+Buffubertip=这个单位有几率受到更多伤害。
+[R04C]
+Bufftip=减速
+Buffubertip=这个单位的移动速度被降低了。
+EditorName=减速
+[R04J]
+Bufftip=诅咒
+Buffubertip=这个单位在受到伤害时有几率提高它所受到的火焰伤害。
+[R04P]
+Bufftip=减速
+Buffubertip=这个单位的移动速度被降低了。
+EditorName=!Slow
+[R04Q]
+Bufftip=减速
+Buffubertip=这个单位的移动速度被降低了。
+EditorName=!Slow
+[R02W]
+Bufftip=霜冻
+Buffubertip=这个单位的移动速度被降低了。
+[R02T]
+Bufftip=减速
+Buffubertip=这个单位的移动速度被降低了。
+EditorName=减速
+[R05X]
+Bufftip=霜冻
+Buffubertip=这个单位的移动速度被降低了。
+[BSTU]
+Bufftip=击晕
+Buffubertip=这个单位无法移动。
+[BUNL]
+Bufftip=不幸
+Buffubertip=这个单位的触发几率被降低了。
+[BPRO]
+Bufftip=诅咒
+Buffubertip=这个单位的攻击被大幅度降低了。
+[BPUR]
+Bufftip=净化
+Buffubertip=这个单位的攻击速度被降低了。
