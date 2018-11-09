@@ -1073,7 +1073,7 @@ Ubertip="|cffFFFF00+20%|r 伤害对魔法|n"
 [W08L]
 Name="v05A On Damage"
 Tip="闪电爆裂"
-Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF8015|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
+Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF8020|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
 [W08N]
 Name="v05A On Attack"
 Tip="魔力摄取"
@@ -1572,7 +1572,7 @@ Ubertip="击中敌人时，这座塔会在目标身上注入一个远古寄生�
 [W0ES]
 Name="v08I On Damage"
 Tip="闪电爆裂"
-Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF8025|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
+Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF8040|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
 [W0FE]
 Name="v08O Header"
 Tip="毒性唾液"
@@ -2599,7 +2599,7 @@ Ubertip="击中时有|cffFFFF8025%|r几率造成|cffFFFF80560|r点额外的法�
 [W0OX]
 Name="v0DB On Damage"
 Tip="闪电爆裂"
-Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF8035|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
+Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF8080|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
 [W0P9]
 Name="v0DE Tower Aura"
 Tip="致命缠绕"
@@ -4380,7 +4380,7 @@ Ubertip="|cffFFFF00+20%|r 伤害对兽人 (|cffFFFF00+0.4%|r/级)|n|cffFFFF00+20
 [W0Z7]
 Name="v0HX On Damage"
 Tip="闪电爆裂"
-Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF8045|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
+Ubertip="击中时有|cffFFFF8012.5%|r几率造成目前法力值*|cffFFFF80120|r的法术伤害并重置'魔力摄取'引起的法术暴击几率。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5%|r 几率"
 [W0YW]
 Name="v0HU On Attack"
 Tip="碎冰斧"

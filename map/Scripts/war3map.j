@@ -51137,7 +51137,7 @@ local integer d4v=(eC[xC])
 if not(GetUnitAbilityLevel(rm[(d4v)],'ACmi')>0)then
 set MJv=(i5(("Abilities\\Spells\\Human\\ManaFlare\\ManaFlareBoltImpact.mdl"),((GetUnitX((rm[(d4v)])))*1.),((GetUnitY((rm[(d4v)])))*1.),((0)*1.),((0)*1.),((1.8)*1.)))
 call I1v(MJv,1.)
-call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*$F,RVv(BMv))
+call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*20,RVv(BMv))
 call Ruv(BMv,23,-(uL[BMv]))
 set uL[BMv]=.0
 endif
@@ -53323,7 +53323,7 @@ local integer d4v=(eC[xC])
 if not(GetUnitAbilityLevel(rm[(d4v)],'ACmi')>0)then
 set MJv=(i5(("Abilities\\Spells\\Human\\ManaFlare\\ManaFlareBoltImpact.mdl"),((GetUnitX((rm[(d4v)])))*1.),((GetUnitY((rm[(d4v)])))*1.),((0)*1.),((0)*1.),((1.8)*1.)))
 call I1v(MJv,1.)
-call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*25,RVv(BMv))
+call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*40,RVv(BMv))
 call Ruv(BMv,23,-(uL[BMv]))
 set uL[BMv]=.0
 endif
@@ -57007,7 +57007,7 @@ local integer d4v=(eC[xC])
 if not(GetUnitAbilityLevel(rm[(d4v)],'ACmi')>0)then
 set MJv=(i5(("Abilities\\Spells\\Human\\ManaFlare\\ManaFlareBoltImpact.mdl"),((GetUnitX((rm[(d4v)])))*1.),((GetUnitY((rm[(d4v)])))*1.),((0)*1.),((0)*1.),((1.8)*1.)))
 call I1v(MJv,1.)
-call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*35,RVv(BMv))
+call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*80,RVv(BMv))
 call Ruv(BMv,23,-(uL[BMv]))
 set uL[BMv]=.0
 endif
@@ -60587,7 +60587,7 @@ local integer d4v=(eC[xC])
 if not(GetUnitAbilityLevel(rm[(d4v)],'ACmi')>0)then
 set MJv=(i5(("Abilities\\Spells\\Human\\ManaFlare\\ManaFlareBoltImpact.mdl"),((GetUnitX((rm[(d4v)])))*1.),((GetUnitY((rm[(d4v)])))*1.),((0)*1.),((0)*1.),((1.8)*1.)))
 call I1v(MJv,1.)
-call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*45,RVv(BMv))
+call RDv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA)*120,RVv(BMv))
 call Ruv(BMv,23,-(uL[BMv]))
 set uL[BMv]=.0
 endif
