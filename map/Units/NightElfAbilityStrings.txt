@@ -1519,7 +1519,7 @@ Ubertip="每秒丢失最大法力值的 |cffFFFF801.75%|r 。"
 [W0F9]
 Name="v08M On Tower Creation"
 Tip="飞蛾扑食"
-Ubertip="控制 |cffFFFF806|r 只魔法飞蛾进行攻击。|n|n每只飞蛾每|cffFFFF800.5|r秒对它|cffFFFF80375|r范围内的一个随机目标造成|cffFFFF8050|r法术伤害。造成伤害时燃烧目标|cffFFFF802|r点法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 法力燃烧"
+Ubertip="控制 |cffFFFF806|r 只魔法飞蛾进行攻击。|n|n每只飞蛾每|cffFFFF800.5|r秒对它|cffFFFF80375|r范围内的一个随机目标造成|cffFFFF8050|r法术伤害。造成伤害时燃烧目标|cffFFFF802|r点法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 法力燃烧|n|cffFFFF80+4|r 法术伤害"
 [W0EY]
 Name="v08J On Attack"
 Tip="喷溅"
@@ -2372,7 +2372,7 @@ Ubertip="比较 |cffFFFF80110|r 范围内塔的造价。|n飞蛾的能力取决�
 [W0MZ]
 Name="v0CG On Tower Creation"
 Tip="飞蛾扑食"
-Ubertip="控制 |cffFFFF806|r 只魔法飞蛾进行攻击。|n|n每只飞蛾每|cffFFFF800.5|r秒对它|cffFFFF80375|r范围内的一个随机目标造成|cffFFFF8080|r法术伤害。造成伤害时燃烧目标|cffFFFF803|r点法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 法力燃烧"
+Ubertip="控制 |cffFFFF806|r 只魔法飞蛾进行攻击。|n|n每只飞蛾每|cffFFFF800.5|r秒对它|cffFFFF80375|r范围内的一个随机目标造成|cffFFFF8080|r法术伤害。造成伤害时燃烧目标|cffFFFF803|r点法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 法力燃烧|n|cffFFFF80+6.4|r 法术伤害"
 [W0NM]
 Name="v0CU On Damage"
 Tip="相位之刃"
@@ -2759,7 +2759,7 @@ Ubertip="比较 |cffFFFF80110|r 范围内塔的造价。|n飞蛾的能力取决�
 [W10B]
 Name="v0I8 On Tower Creation"
 Tip="飞蛾扑食"
-Ubertip="控制 |cffFFFF807|r 只魔法飞蛾进行攻击。|n|n每只飞蛾每|cffFFFF800.5|r秒对它|cffFFFF80375|r范围内的一个随机目标造成|cffFFFF80110|r法术伤害。造成伤害时燃烧目标|cffFFFF804|r点法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 法力燃烧"
+Ubertip="控制 |cffFFFF807|r 只魔法飞蛾进行攻击。|n|n每只飞蛾每|cffFFFF800.5|r秒对它|cffFFFF80375|r范围内的一个随机目标造成|cffFFFF80110|r法术伤害。造成伤害时燃烧目标|cffFFFF804|r点法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 法力燃烧|n|cffFFFF80+8.8|r 法术伤害"
 [W10C]
 Name="v0I9 abils"
 Tip="特殊能力"
