@@ -4737,8 +4737,8 @@ Description="|cff9BA0D0这个小型雕像照亮了被击中的怪物, 让他们�
 Name="|cffFFFFFF蜘蛛丝|r"
 Hotkey=K
 Tip="|cffFFFFFF蜘蛛丝|r"
-Ubertip="|cff9BA0D0蜘蛛丝能够缠住飞行单位, 对其造成额外伤害。 |n|n|cffFFFF80等级：|r 17|n|cffFFFF80作者：|r Neotopia|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r伤害对空军 (|cffFFFF00+1%|r/级)"
-Description="|cff9BA0D0蜘蛛丝能够缠住飞行单位, 对其造成额外伤害。 |n|n|cffFFFF80等级：|r 17|n|cffFFFF80作者：|r Neotopia|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r伤害对空军 (|cffFFFF00+1%|r/级)"
+Ubertip="|cff9BA0D0蜘蛛丝能够缠住飞行单位, 对其造成额外伤害。 |n|n|cffFFFF80等级：|r 17|n|cffFFFF80作者：|r Neotopia|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对空军 (|cffFFFF00+1%|r/级)"
+Description="|cff9BA0D0蜘蛛丝能够缠住飞行单位, 对其造成额外伤害。 |n|n|cffFFFF80等级：|r 17|n|cffFFFF80作者：|r Neotopia|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对空军 (|cffFFFF00+1%|r/级)"
 [Q0LI]
 Name="|cff0080FF暗影魔法书|r"
 Hotkey=K
@@ -5679,8 +5679,8 @@ Description="|cff9BA0D0打开某人的心灵, 让它更加敏锐和清晰。 |n|
 Name="|cffFFFFFF石像鬼之翼|r"
 Hotkey=K
 Tip="|cffFFFFFF石像鬼之翼|r"
-Ubertip="|cff9BA0D0这只翅膀是从一座石像鬼雕像上取下来的。 |n|n|cffFFFF80等级：|r 47|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+100% |r伤害对空军 (|cffFFFF00+1%|r/级)"
-Description="|cff9BA0D0这只翅膀是从一座石像鬼雕像上取下来的。 |n|n|cffFFFF80等级：|r 47|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+100% |r伤害对空军 (|cffFFFF00+1%|r/级)"
+Ubertip="|cff9BA0D0这只翅膀是从一座石像鬼雕像上取下来的。 |n|n|cffFFFF80等级：|r 47|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r伤害对空军 (|cffFFFF00+2%|r/级)"
+Description="|cff9BA0D0这只翅膀是从一座石像鬼雕像上取下来的。 |n|n|cffFFFF80等级：|r 47|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r伤害对空军 (|cffFFFF00+2%|r/级)"
 [Q0O5]
 Name="|cffFF00BF口袋商店|r"
 Hotkey=K
