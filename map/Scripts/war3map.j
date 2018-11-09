@@ -63160,7 +63160,7 @@ local integer BMv=Awv(b)
 local integer d4v=(eP[(b)])
 if Rbv(BMv,.4)then
 call xhv("Abilities\\Spells\\Other\\Incinerate\\FireLordDeathExplode.mdl",(rm[(d4v)]))
-call RJv(BMv,d4v,300,4500+(NM[(BMv)])*'d',RVv(BMv),.33)
+call RJv(BMv,d4v,300,4500+(NM[(BMv)])*200,RVv(BMv),.33)
 endif
 return true
 endfunction
@@ -63176,7 +63176,7 @@ local integer BMv=o2
 local integer u=(eC[xC])
 local integer v6v=(NM[(BMv)])
 local real Eae=300+5*v6v
-local real Cdv=3500.+v6v*'d'
+local real Cdv=3500.+v6v*200
 local integer p
 set p=bCv(rR,BMv,1.,RVv(BMv),BMv,RIv(u),RAv(u),.0,.45)
 set HM[p]=Eae
@@ -76319,7 +76319,7 @@ call xVv((l),xav((i2v("Doodads\\LordaeronSummer\\Props\\SkullPile\\SkullPile3.md
 set hU[t]=l
 call kOv()
 set bt=A6v()
-call A9v(bt,($57A),.25,.0)
+call A9v(bt,($57A),.25,.05)
 set m=(z7())
 call erv(m,Rv,.45,.02)
 call erv(m,32,0,.075)
