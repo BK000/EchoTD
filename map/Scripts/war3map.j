@@ -42444,6 +42444,7 @@ local integer p=d
 local integer BMv=ICv(p)
 local real Wfv=3
 local real hLv=RVv(BMv)
+set Tc=Tc*(1+.08*(NM[(BMv)]))
 if hLv>1 then
 set Tc=Tc*hLv
 call oev(xJv(Tc),UM[d],GetOwningPlayer(UM[d]))
@@ -47640,6 +47641,7 @@ local integer p=d
 local integer BMv=ICv(p)
 local real Wfv=4
 local real hLv=RVv(BMv)
+set Tc=Tc*(1+.08*(NM[(BMv)]))
 if hLv>1 then
 set Tc=Tc*hLv
 call oev(xJv(Tc),UM[d],GetOwningPlayer(UM[d]))
