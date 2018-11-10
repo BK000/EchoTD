@@ -51428,7 +51428,7 @@ set O_e=.05
 else
 set O_e=0
 endif
-call Rgv(t,(GetUnitX(UM[(p)])),(GetUnitY(UM[(p)])),$B4,$EA6+l*$96,Riv(t,O_e,0),0)
+call Rgv(t,(GetUnitX(UM[(p)])),(GetUnitY(UM[(p)])),$B4,2600+l*$96,Riv(t,O_e,0),0)
 return true
 endfunction
 function O0e takes nothing returns boolean
@@ -51437,13 +51437,7 @@ local integer B8=(NM[(BMv)])
 if WL[BMv]>0 then
 set WL[BMv]=WL[BMv]-1
 else
-if B8==25 then
-set WL[BMv]=5
-elseif B8>=$F then
-set WL[BMv]=6
-else
-set WL[BMv]=7
-endif
+set WL[BMv]=3
 set WL[BMv]=WL[BMv]+GetRandomInt(0,4)
 if B8>=$A then
 call KPv(BMv,4)
@@ -63388,9 +63382,9 @@ call A9v(bt,($5B2),1.,.0)
 call xVv((VQ[(bt)]),xav((A5v(1,(($5B3))))))
 call xVv((VQ[(bt)]),xav((A5v(Uq,(($5B4))))))
 set m=(z7())
-call erv(m,83,.5,.03)
+call erv(m,83,.75,.05)
 set XQ[(bt)]=(m)
-set t=CVv('v0K9',$586,0,.0,6500,2.,950,4800,25,bt,'Q0J2',3,3,true,0,Ac,.4)
+set t=CVv('v0K9',$586,0,.0,4500,2.,950,2800,25,bt,'Q0J2',3,3,true,0,Ac,.4)
 set rd[(t)]=((81))
 set l=g7()
 call xVv((l),xav((i2v("Doodads\\Outland\\Rocks\\Outland_Spires\\Outland_Spires1.mdl",43.82,-18.61,-12.8,.11,2.488,$FF,$FF,$FF,$FF,.5))))

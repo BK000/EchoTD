@@ -3775,7 +3775,7 @@ Ubertip="恐惧魔王非常饥饿。每杀死一个单位增加|cffFFFF800.5%|r�
 [W17I]
 Name="v0K9 abils"
 Tip="特殊能力"
-Ubertip="|cffFFFF00+50%|r 金钱获取率 (|cffFFFF00+3%|r/级)|n"
+Ubertip="|cffFFFF00+75%|r 金钱获取率 (|cffFFFF00+5%|r/级)|n"
 [W0VJ]
 Name="v0GL abils"
 Tip="特殊能力"
@@ -3783,7 +3783,7 @@ Ubertip="|cffFFFF00-50%|r 伤害对杂兵|n"
 [W17J]
 Name="v0K9 Header"
 Tip="燃烧地狱"
-Ubertip="每第|cffffff807|r-|cffffff8011|r次攻击制造|cffffff803|r个火球攻击|cffffff80950|r范围内的随机单位，在目标单位|cffffff80180|r范围内造成|cffffff803750|r法术伤害。|n|n|cffFF8000等级加成：|r|n|cffffff80+150|r 法术伤害"|n|cffffff80-1|r 最小和最大需求攻击次数 于等级 |cffffff8015|r 和 |cffffff8025|r|n|cffffff80+1|r 火球数量 于等级 |cffffff8010|r|n|cffffff80+5%|r 法术暴击几率 于等级 |cffffff805|r 和 |cffffff8020|r"
+Ubertip="每第|cffffff803|r-|cffffff807|r次攻击制造|cffffff803|r个火球攻击|cffffff80950|r范围内的随机单位，在目标单位|cffffff80180|r范围内造成|cffffff802600|r法术伤害。|n|n|cffFF8000等级加成：|r|n|cffffff80+150|r 法术伤害"|n|cffffff80+1|r 火球数量 于等级 |cffffff8010|r|n|cffffff80+5%|r 法术暴击几率 于等级 |cffffff805|r 和 |cffffff8020|r"
 [W0VK]
 Name="v0GL On Unit Comes In Range"
 Tip="极度寒冷"

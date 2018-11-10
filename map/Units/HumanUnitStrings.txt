@@ -1935,7 +1935,7 @@ Ubertip="|cff9BA0D0烧尽生物的灵魂。|n|n|cffFFFF80作者：|r |cffff6600A
 Name="|cffFF00BF深红巨龙|r"
 Hotkey=T
 Tip="|cffFF00BF深红巨龙|r"
-Ubertip="|cff9BA0D0古老而贪婪的巨龙，会吸掉你大量的金钱。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力： |cffFFFF003250|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50%|r 金钱获取率 (|cffFFFF00+3%|r/级)|n|n|cffCCFF00燃烧的地狱|r|n每若干次攻击会释放火球，造成范围法术伤害。|n|n|cffCCFF00龙的收藏|r|n当深红巨龙杀死一个单位时，它会吸走一部分金钱用以提高法术伤害和攻击力。"
+Ubertip="|cff9BA0D0古老而贪婪的巨龙，会吸掉你大量的金钱。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力： |cffFFFF002250|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75%|r 金钱获取率 (|cffFFFF00+5%|r/级)|n|n|cffCCFF00燃烧的地狱|r|n每若干次攻击会释放火球，造成范围法术伤害。|n|n|cffCCFF00龙的收藏|r|n当深红巨龙杀死一个单位时，它会吸走一部分金钱用以提高法术伤害和攻击力。"
 [v0JY]
 Name="|cffFF00BF死亡电器|r"
 Hotkey=T

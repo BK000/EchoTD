@@ -4977,7 +4977,7 @@ Specialart=Objects\Spawnmodels\Human\HCancelDeath\HCancelDeath.mdl
 MissileHoming=1
 Missileart=Abilities\Weapons\RedDragonBreath\RedDragonMissile.mdl
 Missilespeed=1500
-Requiresamount=1,80,15
+Requiresamount=1,64,13
 Requires=RUPG,RLVL,REL3
 [v0JY]
 Upgrade=
