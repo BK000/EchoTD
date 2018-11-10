@@ -664,7 +664,7 @@ Ubertip="|cff9BA0D0一个力场，能够从法术中收集能量。|n|n|cffFFFF8
 Name="|cffFFFF00萤火虫绅士|r"
 Hotkey=T
 Tip="|cffFFFF00萤火虫绅士|r"
-Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF000|r每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00600|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cffFFFF00+8%|r 法术伤害/级|n|n|cffCCFF00稀有品种|r|n相邻的黑暗、火焰和风暴塔会影响飞蛾的能力。|n|n|cffCCFF00飞蛾扑食|r|n放出 |cffFFFF806|r 只魔力飞蛾进行攻击，每|cffFFFF800.5|r秒造成|cffFFFF8080|r法术伤害并燃烧|cffFFFF803|r点法力值。"
+Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF000|r每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cffFFFF00+8%|r 法术伤害/级|n|n|cffCCFF00稀有品种|r|n相邻的黑暗、火焰和风暴塔会影响飞蛾的能力。|n|n|cffCCFF00飞蛾扑食|r|n放出 |cffFFFF806|r 只魔力飞蛾进行攻击，每|cffFFFF800.5|r秒造成|cffFFFF8080|r法术伤害并燃烧|cffFFFF803|r点法力值。"
 [v0CH]
 Name="|cffFF00BF龙巫|r"
 Hotkey=T
@@ -1865,7 +1865,7 @@ Ubertip="|cff9BA0D0真诚而鼓舞人心的目光。|n|n|cffFFFF80作者：|r Dr
 Name="|cffFFFF00萤火虫领主|r"
 Hotkey=T
 Tip="|cffFFFF00萤火虫领主|r"
-Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF000|r每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00600|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cffFFFF00+8%|r 法术伤害/级|n|n|cffCCFF00稀有品种|r|n相邻的黑暗、火焰和风暴塔会影响飞蛾的能力。|n|n|cffCCFF00飞蛾扑食|r|n放出 |cffFFFF807|r 只魔力飞蛾进行攻击，每|cffFFFF800.5|r秒造成|cffFFFF80110|r法术伤害并燃烧|cffFFFF804|r点法力值。"
+Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF000|r每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cffFFFF00+8%|r 法术伤害/级|n|n|cffCCFF00稀有品种|r|n相邻的黑暗、火焰和风暴塔会影响飞蛾的能力。|n|n|cffCCFF00飞蛾扑食|r|n放出 |cffFFFF807|r 只魔力飞蛾进行攻击，每|cffFFFF800.5|r秒造成|cffFFFF80110|r法术伤害并燃烧|cffFFFF804|r点法力值。"
 [vAN0]
 Name="传说星辰基础塔"
 Hotkey=R
@@ -3870,7 +3870,7 @@ Ubertip="|cff9BA0D0有什么东西很快就要孵化了……嘘…|n|n|cffFFFF8
 Name="|cffFFFF00萤火虫先生|r"
 Hotkey=T
 Tip="|cffFFFF00萤火虫先生|r"
-Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF000|r每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00600|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cffFFFF00+8%|r 法术伤害/级|n|n|cffCCFF00稀有品种|r|n相邻的黑暗、火焰和风暴塔会影响飞蛾的能力。|n|n|cffCCFF00飞蛾扑食|r|n放出  |cffFFFF806|r  只造成法术伤害并燃烧法力的魔力飞蛾进行攻击。"
+Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF000|r每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cffFFFF00+8%|r 法术伤害/级|n|n|cffCCFF00稀有品种|r|n相邻的黑暗、火焰和风暴塔会影响飞蛾的能力。|n|n|cffCCFF00飞蛾扑食|r|n放出  |cffFFFF806|r  只造成法术伤害并燃烧法力的魔力飞蛾进行攻击。"
 [v08J]
 Name="|cffFFFF00海龟|r"
 Hotkey=T

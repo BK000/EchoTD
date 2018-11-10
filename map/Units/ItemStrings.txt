@@ -2313,7 +2313,7 @@ Description="点击以建造一座塔"
 Name="萤火虫先生"
 Hotkey=F
 Tip="购买 萤火虫先生"
-Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00600|r 射程|n|cffFFFF80能力范围：|r 110|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80能力范围：|r 110|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q08A]
 Name="痛苦纪念碑"
@@ -3075,7 +3075,7 @@ Description="点击以建造一座塔"
 Name="萤火虫绅士"
 Hotkey=F
 Tip="购买 萤火虫绅士"
-Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00600|r 射程|n|cffFFFF80能力范围：|r 110|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80能力范围：|r 110|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0BR]
 Name="恶魔犬"
@@ -3861,7 +3861,7 @@ Description="点击以建造一座塔"
 Name="萤火虫领主"
 Hotkey=F
 Tip="购买 萤火虫领主"
-Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00600|r 射程|n|cffFFFF80能力范围：|r 110|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80能力范围：|r 110|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0HG]
 Name="火星"
