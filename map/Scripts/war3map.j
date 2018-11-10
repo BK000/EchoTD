@@ -40343,9 +40343,7 @@ exitwhen u==0
 if u!=BMv then
 set P7=GetUnitState((rm[(u)]),UNIT_STATE_MAX_MANA)
 set WYv=GetUnitState((rm[(u)]),UNIT_STATE_MANA)
-if(GU[(am[(u)])])==(GU[(am[(BMv)])])then
-call SetUnitState((rm[(u)]),UNIT_STATE_MANA,WYv+P7*(.05+.002*(NM[(BMv)])))
-else
+if(GU[(am[(u)])])!=(GU[(am[(BMv)])])then
 call SetUnitState((rm[(u)]),UNIT_STATE_MANA,WYv+P7*(.1+.004*(NM[(BMv)])))
 endif
 endif
@@ -44075,9 +44073,7 @@ exitwhen u==0
 if u!=BMv then
 set P7=GetUnitState((rm[(u)]),UNIT_STATE_MAX_MANA)
 set WYv=GetUnitState((rm[(u)]),UNIT_STATE_MANA)
-if(GU[(am[(u)])])==(GU[(am[(BMv)])])then
-call SetUnitState((rm[(u)]),UNIT_STATE_MANA,WYv+P7*(.075+.003*(NM[(BMv)])))
-else
+if(GU[(am[(u)])])!=(GU[(am[(BMv)])])then
 call SetUnitState((rm[(u)]),UNIT_STATE_MANA,WYv+P7*(.15+.006*(NM[(BMv)])))
 endif
 endif
@@ -49694,9 +49690,7 @@ exitwhen u==0
 if u!=BMv then
 set P7=GetUnitState((rm[(u)]),UNIT_STATE_MAX_MANA)
 set WYv=GetUnitState((rm[(u)]),UNIT_STATE_MANA)
-if(GU[(am[(u)])])==(GU[(am[(BMv)])])then
-call SetUnitState((rm[(u)]),UNIT_STATE_MANA,WYv+P7*(.1+.004*(NM[(BMv)])))
-else
+if(GU[(am[(u)])])!=(GU[(am[(BMv)])])then
 call SetUnitState((rm[(u)]),UNIT_STATE_MANA,WYv+P7*(.2+.008*(NM[(BMv)])))
 endif
 endif
