@@ -870,7 +870,7 @@ Specialart=Objects\Spawnmodels\Human\HCancelDeath\HCancelDeath.mdl
 MissileHoming=1
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Missilespeed=1500
-Requiresamount=1,42,8
+Requiresamount=1,66,13
 Requires=RUPG,RLVL,REL1
 [v0AE]
 Upgrade=v0F4
@@ -2244,7 +2244,7 @@ Specialart=Objects\Spawnmodels\Human\HCancelDeath\HCancelDeath.mdl
 MissileHoming=1
 Missileart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Missilespeed=1500
-Requiresamount=1,59,11
+Requiresamount=1,80,15
 Requires=RUPG,RLVL,REL1
 [v0F1]
 Upgrade=
