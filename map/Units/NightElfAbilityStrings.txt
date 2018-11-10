@@ -1608,7 +1608,7 @@ Ubertip="|cffFFFF00-30%|r 伤害对自然|n|cffFFFF00+10%|r 伤害对兽人|n|cf
 [W0DS]
 Name="v080 On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有|cffFFFF8015%|r几率释放一群蝙蝠，在夜间造成|cffFFFF80600|r法术伤害，在白天造成|cffFFFF80200|r法术伤害。攻击范围呈锥形，半径从初始|cffFFFF80100|r扩大到|cffFFFF80300|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 几率|r |n|cffFFFF80+15|r 伤害在夜间|r |n|cffFFFF80+5|r 伤害在白天"
+Ubertip="攻击时有|cffFFFF8015%|r几率释放一群蝙蝠，在夜间造成|cffFFFF801200|r法术伤害，在白天造成|cffFFFF80400|r法术伤害。攻击范围呈锥形，半径从初始|cffFFFF80100|r扩大到|cffFFFF80300|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 几率|r |n|cffFFFF80+30|r 伤害在夜间|r |n|cffFFFF80+10|r 伤害在白天"
 [W0DU]
 Name="v081 abils"
 Tip="特殊能力"
@@ -2779,7 +2779,7 @@ Ubertip="|cffFF0000只能攻击地面|r|n|cffFFFF00+8%|r 攻击力/级|n"
 [W0NU]
 Name="v0CW On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有|cffFFFF8015%|r几率释放一群蝙蝠，在夜间造成|cffFFFF801650|r法术伤害，在白天造成|cffFFFF80550|r法术伤害。攻击范围呈锥形，半径从初始|cffFFFF80100|r扩大到|cffFFFF80300|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 几率|r |n|cffFFFF80+45|r 伤害在夜间|r |n|cffFFFF80+15|r 伤害在白天"
+Ubertip="攻击时有|cffFFFF8015%|r几率释放一群蝙蝠，在夜间造成|cffFFFF803300|r法术伤害，在白天造成|cffFFFF801100|r法术伤害。攻击范围呈锥形，半径从初始|cffFFFF80100|r扩大到|cffFFFF80300|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 几率|r |n|cffFFFF80+90|r 伤害在夜间|r |n|cffFFFF80+30|r 伤害在白天"
 [W106]
 Name="v0I7 Header"
 Tip="燃烧!"
@@ -4191,7 +4191,7 @@ Ubertip="这座塔在夜间造成 |cffFFFF80150%|r 的伤害，在白天造成 |
 [W0WR]
 Name="v0H1 On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有|cffFFFF8015%|r几率释放一群蝙蝠，在夜间造成|cffFFFF802700|r法术伤害，在白天造成|cffFFFF80900|r法术伤害。攻击范围呈锥形，半径从初始|cffFFFF80100|r扩大到|cffFFFF80300|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 几率|r |n|cffFFFF80+90|r 伤害在夜间|r |n|cffFFFF80+30|r 伤害在白天"
+Ubertip="攻击时有|cffFFFF8015%|r几率释放一群蝙蝠，在夜间造成|cffFFFF805400|r法术伤害，在白天造成|cffFFFF801800|r法术伤害。攻击范围呈锥形，半径从初始|cffFFFF80100|r扩大到|cffFFFF80300|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 几率|r |n|cffFFFF80+180|r 伤害在夜间|r |n|cffFFFF80+60|r 伤害在白天"
 [W0X3]
 Name="v0H6 abils"
 Tip="特殊能力"

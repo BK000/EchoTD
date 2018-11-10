@@ -564,7 +564,7 @@ Ubertip="|cff9BA0D0一座有着优秀射程的塔，能有效克制BOSS，但对
 Name="|cffFFFF00噩梦蝙蝠|r"
 Hotkey=T
 Tip="|cffFFFF00噩梦蝙蝠|r"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r |n|cffFFFF80攻击力： |cffFFFF001550|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80 秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r |n|cffFFFF80攻击力： |cffFFFF00310|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80 秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
 [v0D8]
 Name="|cffFFFFFF极地常春藤|r"
 Hotkey=T
@@ -1285,7 +1285,7 @@ Ubertip="|cff9BA0D0恶魔的实体，会击晕自己的塔并偷取它们的伤�
 Name="|cffFFFF00恶魔蝙蝠|r"
 Hotkey=T
 Tip="|cffFFFF00恶魔蝙蝠|r"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r |n|cffFFFF80攻击力： |cffFFFF00758|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80 秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r |n|cffFFFF80攻击力： |cffFFFF00450|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80 秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
 [v0GM]
 Name="|cff0080FF神秘虺蛇守卫|r"
 Hotkey=T
@@ -3319,7 +3319,7 @@ Ubertip="|cff9BA0D0它喜欢拥抱人类。|n|n|cffFFFF80作者：|r DreamStride
 Name="|cffFFFF00地狱蝙蝠|r"
 Hotkey=T
 Tip="|cffFFFF00地狱蝙蝠|r"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力： |cffFFFF00758|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力： |cffFFFF00151|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
 [v07P]
 Name="|cffFFFF00罪孽猪圈|r"
 Hotkey=T

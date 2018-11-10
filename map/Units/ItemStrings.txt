@@ -1851,7 +1851,7 @@ Description="点击以建造一座塔"
 Name="地狱蝙蝠"
 Hotkey=F
 Tip="购买 地狱蝙蝠"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00758|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00151|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q084]
 Name="光之战士"
@@ -2829,7 +2829,7 @@ Description="点击以建造一座塔"
 Name="噩梦蝙蝠"
 Hotkey=F
 Tip="购买 噩梦蝙蝠"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF001550|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00310|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CQ]
 Name="极地常春藤"
@@ -4107,7 +4107,7 @@ Description="点击以建造一座塔"
 Name="恶魔蝙蝠"
 Hotkey=F
 Tip="购买 恶魔蝙蝠"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF002250|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00450|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0GB]
 Name="全能元素幽魂"

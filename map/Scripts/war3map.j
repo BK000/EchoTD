@@ -39475,9 +39475,9 @@ local integer BMv=o2
 local real Q5=GetFloatGameState(GAME_STATE_TIME_OF_DAY)
 local integer B8=(NM[(BMv)])
 if Q5>=18. or Q5<6. or RCv(BMv,Ka)!=0 then
-call IMv(la,BMv,(eC[xC]),600+($F*B8),RVv(BMv))
+call IMv(la,BMv,(eC[xC]),1200+(30*B8),RVv(BMv))
 else
-call IMv(la,BMv,(eC[xC]),$C8+(5*B8),RVv(BMv))
+call IMv(la,BMv,(eC[xC]),400+(10*B8),RVv(BMv))
 endif
 return true
 endfunction
@@ -43016,9 +43016,9 @@ local integer BMv=o2
 local real Q5=GetFloatGameState(GAME_STATE_TIME_OF_DAY)
 local integer B8=(NM[(BMv)])
 if Q5>=18. or Q5<6. or RCv(BMv,Ka)!=0 then
-call IMv(la,BMv,(eC[xC]),$672+(45*B8),RVv(BMv))
+call IMv(la,BMv,(eC[xC]),3300+(90*B8),RVv(BMv))
 else
-call IMv(la,BMv,(eC[xC]),550+($F*B8),RVv(BMv))
+call IMv(la,BMv,(eC[xC]),1100+(30*B8),RVv(BMv))
 endif
 return true
 endfunction
@@ -46078,9 +46078,9 @@ local integer BMv=o2
 local real Q5=GetFloatGameState(GAME_STATE_TIME_OF_DAY)
 local integer B8=(NM[(BMv)])
 if Q5>=18. or Q5<6. or RCv(BMv,Ka)!=0 then
-call IMv(la,BMv,(eC[xC]),$A8C+(90*B8),RVv(BMv))
+call IMv(la,BMv,(eC[xC]),5400+(180*B8),RVv(BMv))
 else
-call IMv(la,BMv,(eC[xC]),900+(30*B8),RVv(BMv))
+call IMv(la,BMv,(eC[xC]),1800+(60*B8),RVv(BMv))
 endif
 return true
 endfunction
@@ -54851,7 +54851,7 @@ call GCv()
 set bt=A6v()
 call xVv((VQ[(bt)]),xav((A5v(Uq,((862))))))
 call Nxv(bt,(863),1.,.0)
-call A9v(bt,(864),.15,.002)
+call A9v(bt,(864),.15,.01)
 set XQ[(bt)]=(fC)
 set t=CVv('v080',$688,50,1.5,910,1.2,900,900,$A,bt,'Q07S',2,1,true,$688,cc,.633)
 set l=g7()
@@ -57875,7 +57875,7 @@ set hU[t]=l
 set bt=A6v()
 call xVv((VQ[(bt)]),xav((A5v(Uq,(($425))))))
 call Nxv(bt,($426),1.,.0)
-call A9v(bt,($427),.15,.002)
+call A9v(bt,($427),.15,.01)
 set XQ[(bt)]=(fC)
 set t=CVv('v0CW',$689,50,1.5,$745,1.2,900,$76C,0,bt,'Q0CF',2,1,false,$688,cc,.633)
 set l=g7()
@@ -60930,7 +60930,7 @@ set hU[t]=l
 set bt=A6v()
 call xVv((VQ[(bt)]),xav((A5v(Uq,(($4DA))))))
 call Nxv(bt,($4DB),1.,.0)
-call A9v(bt,($4DC),.15,.002)
+call A9v(bt,($4DC),.15,.01)
 set XQ[(bt)]=(fC)
 set t=CVv('v0H1',$68A,50,1.5,$A8D,1.2,900,$B22,0,bt,'Q0GC',2,1,false,$688,cc,.633)
 set l=g7()
