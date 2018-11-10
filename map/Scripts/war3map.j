@@ -53493,6 +53493,7 @@ endif
 if IIv(u,Wfv,false)>0 then
 set HM[p]=HM[p]+25
 endif
+set Tc=Tc*(1+.08*(NM[(BMv)]))
 if hLv>1 then
 set Tc=Tc*hLv
 call oev(xJv(Tc),UM[d],GetOwningPlayer(UM[d]))
