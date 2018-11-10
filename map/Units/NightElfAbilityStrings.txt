@@ -3619,7 +3619,7 @@ Ubertip="|cffFFFF00+45%|r 伤害对自然 (|cffFFFF00+2%|r/级)|n|cffFFFF00+7.5%
 [W14I]
 Name="v0JF Header"
 Tip="中暑"
-Ubertip="受到热量光环影响的敌人死亡时有|cffFFFF8040%|r的几率爆炸，对范围|cffFFFF80300|r内的所有敌人造成|cffFFFF804500|r伤害。|n|n|cffFF8000等级加成：|r |n|cffFFFF80+100|r 伤害"
+Ubertip="受到热量光环影响的敌人死亡时有|cffFFFF8040%|r的几率爆炸，对范围|cffFFFF80300|r内的所有敌人造成|cffFFFF804500|r伤害。|n|n|cffFF8000等级加成：|r |n|cffFFFF80+200|r 伤害"
 [W0RY]
 Name="v0EV On Damage"
 Tip="森林之馈赠"
@@ -3711,7 +3711,7 @@ Ubertip="击中时使目标进入燃烧状态。每次火焰塔的攻击都会�
 [W14J]
 Name="v0JF On Attack"
 Tip="熔岩攻击"
-Ubertip="攻击时有|cffFFFF8025%|r投掷一个燃烧的熔岩对目标周围|cffFFFF80300|r范围内的敌人造成|cffFFFF803500|r的伤害。|n|n|cffFF8000等级加成：|r |n|cffFFFF80+5|r 范围 |n|cffFFFF80+100|r 伤害"
+Ubertip="攻击时有|cffFFFF8025%|r投掷一个燃烧的熔岩对目标周围|cffFFFF80300|r范围内的敌人造成|cffFFFF803500|r的伤害。|n|n|cffFF8000等级加成：|r |n|cffFFFF80+5|r 范围 |n|cffFFFF80+200|r 伤害 |n|cffFFFF80+0.5%|r 触发概率"
 [W0SK]
 Name="v0FF Header"
 Tip="照亮"
