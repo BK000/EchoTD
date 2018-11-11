@@ -3671,7 +3671,7 @@ Ubertip="攻击时有|cffFFFF8025%|r的几率掷出石块，对主目标|cffFFFF
 [W14T]
 Name="v0JH On Damage"
 Tip="割裂"
-Ubertip="这座塔的攻击和技能造成 割裂 伤害。其中的|cffffff8050%|r 视为 |cffC0C0C0穿刺|r伤害立刻生效。剩余伤害的|cffffff80100%|r 会以 |cff808000凋零|r 伤害的形式在 |cffffff805|r 秒内生效。重复施加此效果时，尚未生效的持续伤害会添加进新一轮的持续伤害中。目标的移动速度越快，造成的持续伤害越高。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 持续伤害比例"
+Ubertip="这座塔的攻击和技能造成 割裂 伤害。伤害的|cffffff80100%|r 视为 |cffC0C0C0穿刺|r伤害立刻生效。伤害的|cffffff8050%|r 会以 |cff808000凋零|r 伤害的形式在 |cffffff805|r 秒内生效。重复施加此效果时，尚未生效的持续伤害会添加进新一轮的持续伤害中。目标的移动速度越快，造成的持续伤害越高。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 持续伤害比例"
 [W0SU]
 Name="v0FJ On Damage"
 Tip="穿透射击"

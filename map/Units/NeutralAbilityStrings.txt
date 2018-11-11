@@ -1083,7 +1083,7 @@ EditorSuffix=""
 [W14P]
 Name="刀刃守卫"
 Tip="刀刃守卫"
-Ubertip="在目标点设置一个刀刃守卫，每秒对 |cffffff80150|r 范围内的敌人造成相当于 |cffffff8050%|r 攻击力的 割裂 伤害。最多放置 |cffffff803|r个。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 攻击力比例"
+Ubertip="在目标点设置一个刀刃守卫，每秒对 |cffffff80200|r 范围内的敌人造成相当于 |cffffff8050%|r 攻击力的 割裂 伤害。最多放置 |cffffff803|r个。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 攻击力比例"
 Hotkey=
 EditorSuffix=""
 [W151]

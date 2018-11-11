@@ -26375,15 +26375,15 @@ endfunction
 function kbv takes integer BMv,integer F8,real M7,real hLv returns nothing
 local integer b
 local real kBv
-local real kcv=1.+((NM[(BMv)])*.01)
+local real kcv=.5+((NM[(BMv)])*.02)
 local real kCv=M7*hLv
-call cYv(BMv,F8,M7*.5,hLv)
+call cYv(BMv,F8,M7,hLv)
 set b=RCv(F8,aR)
 if b!=0 then
-set kBv=Up[b]+(kCv*.5*kcv)
+set kBv=Up[b]+(kCv*kcv)
 set Up[NTv(aR,BMv,F8,0)]=kBv
 else
-set Up[NTv(aR,BMv,F8,0)]=(kCv*.5*kcv)
+set Up[NTv(aR,BMv,F8,0)]=(kCv*kcv)
 endif
 endfunction
 function kdv takes integer BMv returns nothing
@@ -49897,7 +49897,7 @@ local real M7=Rtv(BMv)*(.5+((NM[(BMv)])*.01))
 local integer Aiv
 loop
 if eY[xY[ma]+ahv] then
-set i=nAv(BMv,1,oY[rY[ma]+ahv],iY[aY[ma]+ahv],$96)
+set i=nAv(BMv,1,oY[rY[ma]+ahv],iY[aY[ma]+ahv],200)
 set Aiv=ndv(i)
 loop
 exitwhen Aiv==0
