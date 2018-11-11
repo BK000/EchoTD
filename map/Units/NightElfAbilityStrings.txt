@@ -2807,7 +2807,7 @@ Ubertip="这座塔每杀死一个敌人就会产生一只臭虫，增加它的�
 [W0O9]
 Name="v0D3 On Damage"
 Tip="折磨"
-Ubertip="对被击中的单位施加一个持续|cffffff802.5|r秒的负面状态，有该状态的单位每次受到|cffffff80500|r以上伤害的攻击时，会受到该次伤害的|cffffff808%|r的法术伤害。|n|n|cffFF8000等级加成：|r|n|cffffff80+0.05|r 秒持续时间|n|cffffff80+0.1%|r 法术伤害"
+Ubertip="对被击中的单位施加一个持续|cffffff802.5|r秒的负面状态，有该状态的单位每次受到|cffffff80500|r以上伤害的攻击时，会受到该次伤害的|cffffff805%|r的法术伤害。|n|n|cffFF8000等级加成：|r|n|cffffff80+0.05|r 秒持续时间|n|cffffff80+0.2%|r 法术伤害"
 [W109]
 Name="v0I8 abils"
 Tip="特殊能力"

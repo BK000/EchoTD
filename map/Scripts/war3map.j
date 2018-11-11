@@ -43311,7 +43311,7 @@ endfunction
 function Z6v takes nothing returns boolean
 local integer b=o2
 local integer b8=Awv(b)
-local real M7=Tc*(.08+(NM[(b8)])*.001)
+local real M7=Tc*(.05+(NM[(b8)])*.002)
 local integer F8=(eP[(b)])
 if Tc>=500 and(Zc)==false then
 call RDv(b8,F8,M7,RVv(b))
