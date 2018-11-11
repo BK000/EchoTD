@@ -50493,12 +50493,12 @@ endif
 call Ruv(d4v,94,Up[b]-wp[b]*Yp[b])
 set Up[b]=wp[b]*Yp[b]
 endif
-if Yp[b]<$F then
+if Yp[b]<10 then
 set Yp[b]=Yp[b]+1
 call Ruv(d4v,94,-wp[b])
 set Up[b]=Up[b]+wp[b]
 endif
-call cYv(b8,d4v,Up[b]*$A*Rtv(b8)*(1+.05*jMv+.0005*WL[b8]),RXv(b8,0,0,0))
+call cYv(b8,d4v,Up[b]*3*Rtv(b8)/Rsv(b8)*(1+.05*jMv+.0005*WL[b8]),RXv(b8,0,0,0))
 return true
 endfunction
 function Xfe takes nothing returns boolean

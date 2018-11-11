@@ -3563,7 +3563,7 @@ Ubertip="作用在此塔上的攻击速度, 触发几率, 法术伤害, 法术�
 [W162]
 Name="v0JS Header"
 Tip="疾风"
-Ubertip="范围|cffFFFF80900|r内所有怪物将被疾风影响。每一秒，目标会降低|cffFFFF803%|r移动速度，并且受到[本塔|cffFFFF8010%|r攻击力*目标移动速度损失比例*100]的伤害。减速效果可叠加最多|cffFFFF8015|r次。减速效果和伤害对空中单位加倍。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08%|r 减速效果|n|cffFFFF80+5|r伤害每|cffFFFF801%|r移速损失"
+Ubertip="范围|cffFFFF80900|r内所有怪物将被疾风影响。每一秒，目标会降低|cffFFFF803%|r移动速度，并且受到[本塔|cffFFFF803%|r每秒伤害*目标移动速度损失比例*100]的伤害。减速效果可叠加最多|cffFFFF8010|r次。减速效果和伤害对空中单位加倍。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08%|r 减速效果|n|cffFFFF80+5|r伤害每|cffFFFF801%|r移速损失"
 [W0TR]
 Name="v0FV On Attack"
 Tip="知识"
