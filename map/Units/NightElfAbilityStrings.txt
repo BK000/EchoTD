@@ -1507,7 +1507,7 @@ Ubertip="|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cf
 [W0EW]
 Name="v08J On Damage"
 Tip="水之气息"
-Ubertip="这座塔击中时造成相当于它当前法力值的 |cff00FFFF能量|r 伤害。"
+Ubertip="这座塔击中时造成相当于它当前法力值的 |cff00FFFF能量|r 伤害。伤害受百分比附加攻击力加成。"
 [W0F8]
 Name="v08M On Unit Comes In Range"
 Tip="稀有品种"
@@ -2847,7 +2847,7 @@ Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF802500|r 点额外法
 [W0P1]
 Name="v0DC On Damage"
 Tip="水之气息"
-Ubertip="这座塔击中时造成相当于它当前法力值的 |cff00FFFF能量|r 伤害。"
+Ubertip="这座塔击中时造成相当于它当前法力值的 |cff00FFFF能量|r 伤害。伤害受百分比附加攻击力加成。"
 [W10P]
 Name="v0IC On Spell Target"
 Tip="怪诞觉醒"
@@ -4247,7 +4247,7 @@ Ubertip="|cffFFFF00+192|r 法力/级|n"
 [W0ZB]
 Name="v0HY On Damage"
 Tip="水之气息"
-Ubertip="这座塔击中时造成相当于它当前法力值的 |cff00FFFF能量|r 伤害。"
+Ubertip="这座塔击中时造成相当于它当前法力值的 |cff00FFFF能量|r 伤害。伤害受百分比附加攻击力加成。"
 [W0ZC]
 Name="v0HY Periodic"
 Tip="冷血"

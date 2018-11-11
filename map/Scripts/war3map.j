@@ -39846,7 +39846,7 @@ endfunction
 function WOv takes nothing returns boolean
 local integer BMv=o2
 local integer d4v=(eC[xC])
-call cYv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA),RXv(BMv,.0,.0,0))
+call cYv(BMv,d4v,km[Km[BMv]+4]*GetUnitState((rm[(BMv)]),UNIT_STATE_MANA),RXv(BMv,.0,.0,0))
 return true
 endfunction
 function WRv takes nothing returns boolean
@@ -43530,7 +43530,7 @@ endfunction
 function vBe takes nothing returns boolean
 local integer BMv=o2
 local integer d4v=(eC[xC])
-call cYv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA),RXv(BMv,.0,.0,0))
+call cYv(BMv,d4v,km[Km[BMv]+4]*GetUnitState((rm[(BMv)]),UNIT_STATE_MANA),RXv(BMv,.0,.0,0))
 return true
 endfunction
 function vce takes nothing returns boolean
@@ -47108,7 +47108,7 @@ endfunction
 function iJe takes nothing returns boolean
 local integer BMv=o2
 local integer d4v=(eC[xC])
-call cYv(BMv,d4v,GetUnitState((rm[(BMv)]),UNIT_STATE_MANA),RXv(BMv,.0,.0,0))
+call cYv(BMv,d4v,km[Km[BMv]+4]*GetUnitState((rm[(BMv)]),UNIT_STATE_MANA),RXv(BMv,.0,.0,0))
 return true
 endfunction
 function ike takes nothing returns boolean
