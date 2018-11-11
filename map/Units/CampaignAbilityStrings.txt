@@ -680,7 +680,7 @@ Hotkey=V
 [W0OA]
 Name="v0D3 Autocast"
 Tip="引力"
-Ubertip="这个塔给|cffffff80500|r范围内的|cffffff804|r个塔施加一个状态。有该状态的塔攻击时有|cffffff8035%|r*攻击速度的几率释放一个造成|cffffff80200|r法术伤害的流星，施法时有|cffffff80100%|r释放一个造成|cffffff80500|r法术伤害的流星。流星飞向|cffffff801000|r范围内的一个随机单位并在其|cffffff80220|r范围内造成伤害。这个状态持续到一个流星攻击被释放为止。|n|n|cffFF8000等级加成：|r|n|cffffff80+1|r 塔数目每|cffffff805|r 级|n|cffffff80+8|r法术伤害在攻击时 |n|cffffff80+20|r 法术伤害在投射时|n|n|cffFFFF80冷却时间： |cffFFFF004 秒|r|n|cffFFFF80射程： |cffFFFF00500|r"
+Ubertip="这个塔给|cffffff80500|r范围内的|cffffff804|r个塔施加一个状态。有该状态的塔攻击时有|cffffff8035%|r*攻击速度的几率释放一个造成|cffffff80400|r法术伤害的流星，施法时有|cffffff80100%|r释放一个造成|cffffff801000|r法术伤害的流星。流星飞向|cffffff801000|r范围内的一个随机单位并在其|cffffff80220|r范围内造成伤害。这个状态持续到一个流星攻击被释放为止。|n|n|cffFF8000等级加成：|r|n|cffffff80+1|r 塔数目每|cffffff805|r 级|n|cffffff80+32|r法术伤害在攻击时 |n|cffffff80+80|r 法术伤害在投射时|n|n|cffFFFF80冷却时间： |cffFFFF004 秒|r|n|cffFFFF80射程： |cffFFFF00500|r"
 Hotkey=V
 [W0O6]
 Name="v0D2 Autocast"

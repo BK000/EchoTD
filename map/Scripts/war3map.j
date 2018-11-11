@@ -24569,9 +24569,9 @@ local integer vBv=nFv(it)
 local integer B8=(NM[(BMv)])
 if vBv!=0 then
 if yp[b]==1 then
-set kM[bgv(GV,HOv,1,1,RIv(HOv),RAv(HOv),(GetUnitFlyHeight(rm[(HOv)])+60.)+$4B0,vBv,.0,0,.0,true)]=$C8+8*B8
+set kM[bgv(GV,BMv,1,1,RIv(HOv),RAv(HOv),(GetUnitFlyHeight(rm[(HOv)])+60.)+$4B0,vBv,.0,0,.0,true)]=400+32*B8
 else
-set kM[bgv(GV,HOv,1,1,RIv(HOv),RAv(HOv),(GetUnitFlyHeight(rm[(HOv)])+60.)+$4B0,vBv,.0,0,.0,true)]=500+20*B8
+set kM[bgv(GV,BMv,1,1,RIv(HOv),RAv(HOv),(GetUnitFlyHeight(rm[(HOv)])+60.)+$4B0,vBv,.0,0,.0,true)]=1000+80*B8
 endif
 call D6(it)
 endif
@@ -43314,7 +43314,7 @@ local integer b8=Awv(b)
 local real M7=Tc*(.08+(NM[(b8)])*.001)
 local integer F8=(eP[(b)])
 if Tc>=500 and(Zc)==false then
-call RDv(b8,F8,M7,1)
+call RDv(b8,F8,M7,RVv(b))
 call VQv(((vM[(b8)])),(I2S(R2I(M7*(hm[Hm[(b8)]+5])))),(F8),($FF),($96),($96),$FF,.07,1.,2.,.018,((20)*1.))
 endif
 return true
